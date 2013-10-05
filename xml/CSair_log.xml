@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="24">
+<author>brian.hauger</author>
+<date>2013-10-03T20:56:08.000000Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir"
+   copyfrom-path="/trunk"
+   copyfrom-rev="22">/tags/2.1.0</path>
+</paths>
+<msg>eh close enough to done
+</msg>
+</logentry>
+<logentry
+   revision="23">
+<author>brian.hauger</author>
+<date>2013-09-26T04:35:54.000000Z</date>
+<paths>
+<path
+   kind="dir"
+   copyfrom-path="/trunk"
+   copyfrom-rev="13"
+   action="A">/tags/1.0</path>
+</paths>
+<msg>Finished.
+</msg>
+</logentry>
+<logentry
+   revision="22">
+<author>brian.hauger</author>
+<date>2013-10-03T20:56:08.000000Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/trunk/graphutils.rb</path>
+<path
+   kind="file"
+   action="M">/trunk/graphtests.rb</path>
+<path
+   action="M"
+   kind="file">/trunk/interfacefunctions.rb</path>
+<path
+   action="M"
+   kind="file">/trunk/utils.rb</path>
+<path
+   kind="file"
+   action="M">/trunk/csair.rb</path>
+</paths>
+<msg>eh close enough to done
+</msg>
+</logentry>
+<logentry
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-10-03T18:27:59.000000Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/trunk/graphutils.rb</path>
+</paths>
+<msg>add/remove implemented
+</msg>
+</logentry>
+<logentry
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-10-03T18:26:34.000000Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/trunk/graph.rb</path>
+<path
+   action="M"
+   kind="file">/trunk/graphutils.rb</path>
+<path
+   kind="file"
+   action="M">/trunk/city.rb</path>
+<path
+   kind="file"
+   action="M">/trunk/interfacefunctions.rb</path>
+</paths>
+<msg>add/remove implemented
+</msg>
+</logentry>
+<logentry
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-10-03T16:53:27.000000Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/trunk/interfacefunctions.rb</path>
+<path
+   kind="file"
+   action="M">/trunk/csair.rb</path>
+<path
+   kind="file"
+   action="M">/trunk/graphutils.rb</path>
+</paths>
+<msg>route stats finished
+</msg>
+</logentry>
+<logentry
+   revision="18">
+<author>brian.hauger</author>
+<date>2013-10-03T14:23:36.000000Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/trunk/csair.rb</path>
+<path
+   kind="file"
+   action="M">/trunk/graphutils.rb</path>
+<path
+   action="M"
+   kind="file">/trunk/interfacefunctions.rb</path>
+</paths>
+<msg>Stats all correct
+</msg>
+</logentry>
+<logentry
+   revision="17">
+<author>brian.hauger</author>
+<date>2013-10-02T23:35:24.000000Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/trunk/city.rb</path>
+<path
+   kind="file"
+   action="M">/trunk/interfacefunctions.rb</path>
+<path
+   kind="file"
+   action="M">/trunk/cmi_hub.json</path>
+<path
+   action="M"
+   kind="file">/trunk/map_data.json</path>
+<path
+   action="M"
+   kind="file">/trunk/utils.rb</path>
+<path
+   action="M"
+   kind="file">/trunk/csair.rb</path>
+<path
+   action="M"
+   kind="file">/trunk/graph.rb</path>
+<path
+   action="M"
+   kind="file">/trunk/graphutils.rb</path>
+</paths>
+<msg>Added short route to interface
+</msg>
+</logentry>
+<logentry
+   revision="16">
+<author>brian.hauger</author>
+<date>2013-09-29T18:38:09.000000Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/trunk/interfacefunctions.rb</path>
+<path
+   action="M"
+   kind="file">/trunk/csair.rb</path>
+<path
+   action="M"
+   kind="file">/trunk/graphutils.rb</path>
+</paths>
+<msg>Route Stats Done
+</msg>
+</logentry>
+<logentry
+   revision="15">
+<author>brian.hauger</author>
+<date>2013-09-29T03:27:48.000000Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/trunk/graphtests.rb</path>
+<path
+   action="M"
+   kind="file">/trunk/interfacefunctions.rb</path>
+<path
+   kind="file"
+   action="A">/trunk/cmi_hub.json</path>
+<path
+   kind="file"
+   action="M">/trunk/utils.rb</path>
+<path
+   kind="file"
+   action="M">/trunk/csair.rb</path>
+<path
+   kind="file"
+   action="M">/trunk/graph.rb</path>
+<path
+   action="M"
+   kind="file">/trunk/graphutils.rb</path>
+</paths>
+<msg>shortest route
+</msg>
+</logentry>
+<logentry
+   revision="14">
+<author>brian.hauger</author>
+<date>2013-09-28T04:15:03.000000Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/trunk/interfacefunctions.rb</path>
+<path
+   action="M"
+   kind="file">/trunk/csair.rb</path>
+<path
+   action="M"
+   kind="file">/trunk/graph.rb</path>
+<path
+   action="A"
+   kind="file">/trunk/graphutils.rb</path>
+<path
+   kind="file"
+   action="M">/trunk/city.rb</path>
+</paths>
+<msg>Refactored
+</msg>
+</logentry>
+<logentry
+   revision="13">
+<author>brian.hauger</author>
+<date>2013-09-26T04:35:54.000000Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/trunk/csair.rb</path>
+<path
+   action="M"
+   kind="file">/trunk/graph.rb</path>
+<path
+   kind="file"
+   action="M">/trunk/city.rb</path>
+<path
+   kind="file"
+   action="M">/trunk/interfacefunctions.rb</path>
+<path
+   action="M"
+   kind="file">/trunk/route.rb</path>
+<path
+   kind="file"
+   action="M">/trunk/utils.rb</path>
+</paths>
+<msg>Finished.
+</msg>
+</logentry>
+<logentry
+   revision="12">
+<author>brian.hauger</author>
+<date>2013-09-25T18:36:56.000000Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/trunk/graphtests.rb</path>
+</paths>
+<msg>Tests done
+</msg>
+</logentry>
+<logentry
+   revision="11">
+<author>brian.hauger</author>
+<date>2013-09-25T03:18:52.000000Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/trunk/csair.rb</path>
+<path
+   kind="file"
+   action="M">/trunk/graph.rb</path>
+<path
+   kind="file"
+   action="A">/trunk/graphtests.rb</path>
+</paths>
+<msg>Graph Tests Added
+</msg>
+</logentry>
+<logentry
+   revision="10">
+<author>brian.hauger</author>
+<date>2013-09-25T01:33:29.000000Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/trunk/utils.rb</path>
+<path
+   kind="file"
+   action="M">/trunk/csair.rb</path>
+</paths>
+<msg>Forgot to add utils
+</msg>
+</logentry>
+<logentry
+   revision="9">
+<author>brian.hauger</author>
+<date>2013-09-25T01:09:54.000000Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/trunk/route.rb</path>
+<path
+   kind="file"
+   action="M">/trunk/csair.rb</path>
+<path
+   action="M"
+   kind="file">/trunk/graph.rb</path>
+<path
+   kind="file"
+   action="M">/trunk/city.rb</path>
+<path
+   kind="file"
+   action="M">/trunk/interfacefunctions.rb</path>
+</paths>
+<msg>Changed accessor methods
+</msg>
+</logentry>
+<logentry
+   revision="8">
+<author>brian.hauger</author>
+<date>2013-09-24T20:55:55.000000Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/trunk/csair.rb</path>
+<path
+   kind="file"
+   action="M">/trunk/graph.rb</path>
+<path
+   kind="file"
+   action="A">/trunk/interfacefunctions.rb</path>
+</paths>
+<msg>Interface refactored
+</msg>
+</logentry>
+<logentry
+   revision="7">
+<author>brian.hauger</author>
+<date>2013-09-24T17:15:16.000000Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/trunk/csair.rb</path>
+<path
+   kind="file"
+   action="M">/trunk/graph.rb</path>
+</paths>
+<msg>Finished Stats UI
+</msg>
+</logentry>
+<logentry
+   revision="6">
+<author>brian.hauger</author>
+<date>2013-09-24T13:16:32.000000Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/trunk/csair.rb</path>
+<path
+   action="M"
+   kind="file">/trunk/graph.rb</path>
+</paths>
+<msg>UI almost done
+</msg>
+</logentry>
+<logentry
+   revision="5">
+<author>brian.hauger</author>
+<date>2013-09-23T22:42:32.000000Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/trunk/city.rb</path>
+<path
+   action="M"
+   kind="file">/trunk/route.rb</path>
+<path
+   action="M"
+   kind="file">/trunk/csair.rb</path>
+<path
+   kind="file"
+   action="M">/trunk/graph.rb</path>
+</paths>
+<msg>Structure done
+</msg>
+</logentry>
+<logentry
+   revision="4">
+<author>brian.hauger</author>
+<date>2013-09-23T20:16:51.000000Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/trunk/csair.rb</path>
+<path
+   action="M"
+   kind="file">/trunk/graph.rb</path>
+</paths>
+<msg>added shortest and longest flights
+</msg>
+</logentry>
+<logentry
+   revision="3">
+<author>brian.hauger</author>
+<date>2013-09-23T19:41:09.000000Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/trunk/city.rb</path>
+<path
+   action="M"
+   kind="file">/trunk/csair.rb</path>
+<path
+   action="M"
+   kind="file">/trunk/graph.rb</path>
+</paths>
+<msg>Refactored Image Map Code
+</msg>
+</logentry>
+<logentry
+   revision="2">
+<author>brian.hauger</author>
+<date>2013-09-23T16:18:32.000000Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/trunk/csair.rb</path>
+<path
+   kind="file"
+   action="M">/trunk/graph.rb</path>
+</paths>
+<msg>fixed graph
+</msg>
+</logentry>
+<logentry
+   revision="1">
+<author>brian.hauger</author>
+<date>2013-09-23T14:59:14.000000Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/trunk/route.rb</path>
+<path
+   action="A"
+   kind="dir">/trunk</path>
+<path
+   kind="dir"
+   action="A">/branches</path>
+<path
+   kind="file"
+   action="A">/trunk/csair.rb</path>
+<path
+   action="A"
+   kind="file">/trunk/graph.rb</path>
+<path
+   action="A"
+   kind="file">/trunk/city.rb</path>
+<path
+   kind="file"
+   action="A">/trunk/map_data.json</path>
+</paths>
+<msg>Basic Structure
+</msg>
+</logentry>
+</log>

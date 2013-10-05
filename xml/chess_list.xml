@@ -1,0 +1,2440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lists>
+<list
+   path=".">
+<entry
+   kind="dir">
+<name>branches</name>
+<commit
+   revision="1">
+<author>brian.hauger</author>
+<date>2013-09-04T01:31:47.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags</name>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.0.0</name>
+<commit
+   revision="18">
+<author>brian.hauger</author>
+<date>2013-09-05T21:00:36.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.0.0/.idea</name>
+<commit
+   revision="18">
+<author>brian.hauger</author>
+<date>2013-09-05T21:00:36.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.0.0/.idea/dictionaries</name>
+<commit
+   revision="18">
+<author>brian.hauger</author>
+<date>2013-09-05T21:00:36.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.0.0/.idea/dictionaries/Haugerbr.xml</name>
+<size>188</size>
+<commit
+   revision="18">
+<author>brian.hauger</author>
+<date>2013-09-05T21:00:36.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.0.0/README</name>
+<size>75</size>
+<commit
+   revision="18">
+<author>brian.hauger</author>
+<date>2013-09-05T21:00:36.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.0.0/src</name>
+<commit
+   revision="18">
+<author>brian.hauger</author>
+<date>2013-09-05T21:00:36.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.0.0/src/Chess</name>
+<commit
+   revision="18">
+<author>brian.hauger</author>
+<date>2013-09-05T21:00:36.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.0.0/src/Chess/Bishop.java</name>
+<size>2246</size>
+<commit
+   revision="18">
+<author>brian.hauger</author>
+<date>2013-09-05T21:00:36.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.0.0/src/Chess/ChessBoard.java</name>
+<size>12404</size>
+<commit
+   revision="18">
+<author>brian.hauger</author>
+<date>2013-09-05T21:00:36.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.0.0/src/Chess/ChessPiece.java</name>
+<size>1988</size>
+<commit
+   revision="18">
+<author>brian.hauger</author>
+<date>2013-09-05T21:00:36.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.0.0/src/Chess/ChessTest.java</name>
+<size>1230</size>
+<commit
+   revision="18">
+<author>brian.hauger</author>
+<date>2013-09-05T21:00:36.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.0.0/src/Chess/King.java</name>
+<size>1774</size>
+<commit
+   revision="18">
+<author>brian.hauger</author>
+<date>2013-09-05T21:00:36.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.0.0/src/Chess/Knight.java</name>
+<size>1929</size>
+<commit
+   revision="18">
+<author>brian.hauger</author>
+<date>2013-09-05T21:00:36.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.0.0/src/Chess/Pawn.java</name>
+<size>2771</size>
+<commit
+   revision="18">
+<author>brian.hauger</author>
+<date>2013-09-05T21:00:36.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.0.0/src/Chess/Player.java</name>
+<size>1320</size>
+<commit
+   revision="18">
+<author>brian.hauger</author>
+<date>2013-09-05T21:00:36.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.0.0/src/Chess/Queen.java</name>
+<size>1378</size>
+<commit
+   revision="18">
+<author>brian.hauger</author>
+<date>2013-09-05T21:00:36.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.0.0/src/Chess/Rook.java</name>
+<size>2790</size>
+<commit
+   revision="18">
+<author>brian.hauger</author>
+<date>2013-09-05T21:00:36.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.1.0</name>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.1.0/.idea</name>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.1.0/.idea/.name</name>
+<size>10</size>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.1.0/.idea/compiler.xml</name>
+<size>711</size>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.1.0/.idea/copyright</name>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.1.0/.idea/copyright/profiles_settings.xml</name>
+<size>111</size>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.1.0/.idea/dictionaries</name>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.1.0/.idea/dictionaries/Haugerbr.xml</name>
+<size>188</size>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.1.0/.idea/encodings.xml</name>
+<size>166</size>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.1.0/.idea/misc.xml</name>
+<size>1299</size>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.1.0/.idea/modules.xml</name>
+<size>262</size>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.1.0/.idea/scopes</name>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.1.0/.idea/scopes/scope_settings.xml</name>
+<size>139</size>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.1.0/.idea/uiDesigner.xml</name>
+<size>8794</size>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.1.0/.idea/vcs.xml</name>
+<size>169</size>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.1.0/.idea/workspace.xml</name>
+<size>48210</size>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.1.0/Doxyfile</name>
+<size>101977</size>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.1.0/README</name>
+<size>75</size>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.1.0/src</name>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.1.0/src/Chess</name>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.1.0/src/Chess/Model</name>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.1.0/src/Chess/Model/Board</name>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.1.0/src/Chess/Model/Board/ChessBoard.java</name>
+<size>13464</size>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.1.0/src/Chess/Model/Pieces</name>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.1.0/src/Chess/Model/Pieces/ArchBishop.java</name>
+<size>1340</size>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.1.0/src/Chess/Model/Pieces/Bishop.java</name>
+<size>2306</size>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.1.0/src/Chess/Model/Pieces/Bitch.java</name>
+<size>2556</size>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.1.0/src/Chess/Model/Pieces/ChessPiece.java</name>
+<size>1976</size>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.1.0/src/Chess/Model/Pieces/King.java</name>
+<size>1754</size>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.1.0/src/Chess/Model/Pieces/Knight.java</name>
+<size>1989</size>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.1.0/src/Chess/Model/Pieces/Pawn.java</name>
+<size>2831</size>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.1.0/src/Chess/Model/Pieces/Queen.java</name>
+<size>1438</size>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.1.0/src/Chess/Model/Pieces/Rook.java</name>
+<size>2786</size>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.1.0/src/Chess/Model/Player</name>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.1.0/src/Chess/Model/Player/Player.java</name>
+<size>1609</size>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.1.0/src/Chess/View</name>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.1.0/src/Chess/View/BoardGUI.java</name>
+<size>5365</size>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.1.0/src/images</name>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.1.0/src/images/chesspieces.png</name>
+<size>17032</size>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.1.0/test</name>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.1.0/test/Chess</name>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.1.0/test/Chess/Model</name>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.1.0/test/Chess/Model/Board</name>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.1.0/test/Chess/Model/Board/ChessBoardTest.java</name>
+<size>1008</size>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.1.0/test/Chess/Model/Pieces</name>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.1.0/test/Chess/Model/Pieces/BishopTest.java</name>
+<size>308</size>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.1.0/test/Chess/Model/Pieces/ChessPieceTest.java</name>
+<size>520</size>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.1.0/test/Chess/Model/Pieces/KingTest.java</name>
+<size>306</size>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.1.0/test/Chess/Model/Pieces/KnightTest.java</name>
+<size>308</size>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.1.0/test/Chess/Model/Pieces/PawnTest.java</name>
+<size>306</size>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.1.0/test/Chess/Model/Pieces/QueenTest.java</name>
+<size>307</size>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.1.0/test/Chess/Model/Pieces/RookTest.java</name>
+<size>306</size>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.1.0/test/Chess/Model/Player</name>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.1.0/test/Chess/Model/Player/PlayerTest.java</name>
+<size>439</size>
+<commit
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.0</name>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.0/.idea</name>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/.idea/.name</name>
+<size>10</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/.idea/compiler.xml</name>
+<size>711</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.0/.idea/copyright</name>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/.idea/copyright/profiles_settings.xml</name>
+<size>111</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.0/.idea/dictionaries</name>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/.idea/dictionaries/Haugerbr.xml</name>
+<size>188</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/.idea/encodings.xml</name>
+<size>166</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/.idea/misc.xml</name>
+<size>1299</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/.idea/modules.xml</name>
+<size>262</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.0/.idea/scopes</name>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/.idea/scopes/scope_settings.xml</name>
+<size>139</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/.idea/uiDesigner.xml</name>
+<size>8794</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/.idea/vcs.xml</name>
+<size>169</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/.idea/workspace.xml</name>
+<size>64313</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/Doxyfile</name>
+<size>101977</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/README</name>
+<size>75</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.0/src</name>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.0/src/Chess</name>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.0/src/Chess/Controller</name>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/src/Chess/Controller/ChessController.java</name>
+<size>5477</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.0/src/Chess/Model</name>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.0/src/Chess/Model/Board</name>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/src/Chess/Model/Board/ChessBoard.java</name>
+<size>13772</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.0/src/Chess/Model/Pieces</name>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/src/Chess/Model/Pieces/ArchBishop.java</name>
+<size>1336</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/src/Chess/Model/Pieces/Bishop.java</name>
+<size>2306</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/src/Chess/Model/Pieces/Bitch.java</name>
+<size>2538</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/src/Chess/Model/Pieces/ChessPiece.java</name>
+<size>3124</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/src/Chess/Model/Pieces/King.java</name>
+<size>1749</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/src/Chess/Model/Pieces/Knight.java</name>
+<size>1999</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/src/Chess/Model/Pieces/Pawn.java</name>
+<size>2646</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/src/Chess/Model/Pieces/Queen.java</name>
+<size>1560</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/src/Chess/Model/Pieces/Rook.java</name>
+<size>2907</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.0/src/Chess/Model/Player</name>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/src/Chess/Model/Player/Player.java</name>
+<size>1741</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.0/src/Chess/View</name>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/src/Chess/View/BoardGUI.java</name>
+<size>6150</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/src/Chess/View/ChessPanel.java</name>
+<size>1631</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.0/src/images</name>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/src/images/chesspieces.png</name>
+<size>17032</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.0/test</name>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.0/test/Chess</name>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.0/test/Chess/Model</name>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.0/test/Chess/Model/Board</name>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/test/Chess/Model/Board/ChessBoardTest.java</name>
+<size>3761</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.0/test/Chess/Model/Pieces</name>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/test/Chess/Model/Pieces/ArchBishopTest.java</name>
+<size>521</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/test/Chess/Model/Pieces/BishopTest.java</name>
+<size>531</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/test/Chess/Model/Pieces/BitchTest.java</name>
+<size>691</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/test/Chess/Model/Pieces/ChessPieceTest.java</name>
+<size>2180</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/test/Chess/Model/Pieces/KingTest.java</name>
+<size>551</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/test/Chess/Model/Pieces/KnightTest.java</name>
+<size>566</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/test/Chess/Model/Pieces/PawnTest.java</name>
+<size>695</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/test/Chess/Model/Pieces/QueenTest.java</name>
+<size>504</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/test/Chess/Model/Pieces/RookTest.java</name>
+<size>670</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.0/test/Chess/Model/Player</name>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.0/test/Chess/Model/Player/PlayerTest.java</name>
+<size>491</size>
+<commit
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.1</name>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.1/.idea</name>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/.idea/.name</name>
+<size>10</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/.idea/compiler.xml</name>
+<size>711</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.1/.idea/copyright</name>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/.idea/copyright/profiles_settings.xml</name>
+<size>111</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.1/.idea/dictionaries</name>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/.idea/dictionaries/Haugerbr.xml</name>
+<size>188</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/.idea/encodings.xml</name>
+<size>166</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/.idea/misc.xml</name>
+<size>1299</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/.idea/modules.xml</name>
+<size>262</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.1/.idea/scopes</name>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/.idea/scopes/scope_settings.xml</name>
+<size>139</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/.idea/uiDesigner.xml</name>
+<size>8794</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/.idea/vcs.xml</name>
+<size>169</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/.idea/workspace.xml</name>
+<size>66797</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/Doxyfile</name>
+<size>101977</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/Manual Test Plan.pdf</name>
+<size>1754695</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/README</name>
+<size>75</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.1/src</name>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.1/src/Chess</name>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.1/src/Chess/Controller</name>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/src/Chess/Controller/ChessController.java</name>
+<size>5477</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.1/src/Chess/Model</name>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.1/src/Chess/Model/Board</name>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/src/Chess/Model/Board/ChessBoard.java</name>
+<size>13772</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.1/src/Chess/Model/Pieces</name>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/src/Chess/Model/Pieces/ArchBishop.java</name>
+<size>1336</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/src/Chess/Model/Pieces/Bishop.java</name>
+<size>2306</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/src/Chess/Model/Pieces/Bitch.java</name>
+<size>2538</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/src/Chess/Model/Pieces/ChessPiece.java</name>
+<size>3124</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/src/Chess/Model/Pieces/King.java</name>
+<size>1749</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/src/Chess/Model/Pieces/Knight.java</name>
+<size>1999</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/src/Chess/Model/Pieces/Pawn.java</name>
+<size>2646</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/src/Chess/Model/Pieces/Queen.java</name>
+<size>1560</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/src/Chess/Model/Pieces/Rook.java</name>
+<size>2907</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.1/src/Chess/Model/Player</name>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/src/Chess/Model/Player/Player.java</name>
+<size>1741</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.1/src/Chess/View</name>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/src/Chess/View/BoardGUI.java</name>
+<size>6150</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/src/Chess/View/ChessPanel.java</name>
+<size>1631</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.1/src/images</name>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/src/images/chesspieces.png</name>
+<size>17032</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.1/test</name>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.1/test/Chess</name>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.1/test/Chess/Model</name>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.1/test/Chess/Model/Board</name>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/test/Chess/Model/Board/ChessBoardTest.java</name>
+<size>3761</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.1/test/Chess/Model/Pieces</name>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/test/Chess/Model/Pieces/ArchBishopTest.java</name>
+<size>521</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/test/Chess/Model/Pieces/BishopTest.java</name>
+<size>531</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/test/Chess/Model/Pieces/BitchTest.java</name>
+<size>691</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/test/Chess/Model/Pieces/ChessPieceTest.java</name>
+<size>2180</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/test/Chess/Model/Pieces/KingTest.java</name>
+<size>551</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/test/Chess/Model/Pieces/KnightTest.java</name>
+<size>566</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/test/Chess/Model/Pieces/PawnTest.java</name>
+<size>695</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/test/Chess/Model/Pieces/QueenTest.java</name>
+<size>504</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/test/Chess/Model/Pieces/RookTest.java</name>
+<size>670</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>tags/1.2.1/test/Chess/Model/Player</name>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>tags/1.2.1/test/Chess/Model/Player/PlayerTest.java</name>
+<size>491</size>
+<commit
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>trunk</name>
+<commit
+   revision="17">
+<author>brian.hauger</author>
+<date>2013-09-04T01:31:47.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>trunk/.idea</name>
+<commit
+   revision="17">
+<author>brian.hauger</author>
+<date>2013-09-05T19:04:58.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/.idea/.name</name>
+<size>10</size>
+<commit
+   revision="8">
+<author>brian.hauger</author>
+<date>2013-09-11T19:08:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/.idea/compiler.xml</name>
+<size>711</size>
+<commit
+   revision="8">
+<author>brian.hauger</author>
+<date>2013-09-11T19:08:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>trunk/.idea/copyright</name>
+<commit
+   revision="8">
+<author>brian.hauger</author>
+<date>2013-09-11T19:08:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/.idea/copyright/profiles_settings.xml</name>
+<size>111</size>
+<commit
+   revision="8">
+<author>brian.hauger</author>
+<date>2013-09-11T19:08:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>trunk/.idea/dictionaries</name>
+<commit
+   revision="6">
+<author>brian.hauger</author>
+<date>2013-09-05T19:04:58.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/.idea/dictionaries/Haugerbr.xml</name>
+<size>188</size>
+<commit
+   revision="6">
+<author>brian.hauger</author>
+<date>2013-09-05T19:04:58.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/.idea/encodings.xml</name>
+<size>166</size>
+<commit
+   revision="8">
+<author>brian.hauger</author>
+<date>2013-09-11T19:08:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/.idea/misc.xml</name>
+<size>1299</size>
+<commit
+   revision="8">
+<author>brian.hauger</author>
+<date>2013-09-11T19:08:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/.idea/modules.xml</name>
+<size>262</size>
+<commit
+   revision="8">
+<author>brian.hauger</author>
+<date>2013-09-11T19:08:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>trunk/.idea/scopes</name>
+<commit
+   revision="8">
+<author>brian.hauger</author>
+<date>2013-09-11T19:08:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/.idea/scopes/scope_settings.xml</name>
+<size>139</size>
+<commit
+   revision="8">
+<author>brian.hauger</author>
+<date>2013-09-11T19:08:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/.idea/uiDesigner.xml</name>
+<size>8794</size>
+<commit
+   revision="8">
+<author>brian.hauger</author>
+<date>2013-09-11T19:08:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/.idea/vcs.xml</name>
+<size>169</size>
+<commit
+   revision="8">
+<author>brian.hauger</author>
+<date>2013-09-11T19:08:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/.idea/workspace.xml</name>
+<size>66797</size>
+<commit
+   revision="17">
+<author>brian.hauger</author>
+<date>2013-09-11T19:08:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/Doxyfile</name>
+<size>101977</size>
+<commit
+   revision="13">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/Manual Test Plan.pdf</name>
+<size>1754695</size>
+<commit
+   revision="17">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/README</name>
+<size>75</size>
+<commit
+   revision="1">
+<author>brian.hauger</author>
+<date>2013-09-04T01:31:47.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>trunk/src</name>
+<commit
+   revision="16">
+<author>brian.hauger</author>
+<date>2013-09-04T01:37:22.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>trunk/src/Chess</name>
+<commit
+   revision="16">
+<author>brian.hauger</author>
+<date>2013-09-05T06:02:01.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>trunk/src/Chess/Controller</name>
+<commit
+   revision="16">
+<author>brian.hauger</author>
+<date>2013-09-19T13:14:41.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/src/Chess/Controller/ChessController.java</name>
+<size>5477</size>
+<commit
+   revision="16">
+<author>brian.hauger</author>
+<date>2013-09-19T13:14:41.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>trunk/src/Chess/Model</name>
+<commit
+   revision="16">
+<author>brian.hauger</author>
+<date>2013-09-12T04:14:13.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>trunk/src/Chess/Model/Board</name>
+<commit
+   revision="16">
+<author>brian.hauger</author>
+<date>2013-09-12T04:14:13.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/src/Chess/Model/Board/ChessBoard.java</name>
+<size>13772</size>
+<commit
+   revision="16">
+<author>brian.hauger</author>
+<date>2013-09-12T04:14:13.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>trunk/src/Chess/Model/Pieces</name>
+<commit
+   revision="16">
+<author>brian.hauger</author>
+<date>2013-09-12T04:14:13.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/src/Chess/Model/Pieces/ArchBishop.java</name>
+<size>1336</size>
+<commit
+   revision="14">
+<author>brian.hauger</author>
+<date>2013-09-12T19:59:30.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/src/Chess/Model/Pieces/Bishop.java</name>
+<size>2306</size>
+<commit
+   revision="14">
+<author>brian.hauger</author>
+<date>2013-09-12T04:14:13.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/src/Chess/Model/Pieces/Bitch.java</name>
+<size>2538</size>
+<commit
+   revision="14">
+<author>brian.hauger</author>
+<date>2013-09-12T19:59:30.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/src/Chess/Model/Pieces/ChessPiece.java</name>
+<size>3124</size>
+<commit
+   revision="16">
+<author>brian.hauger</author>
+<date>2013-09-12T04:14:13.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/src/Chess/Model/Pieces/King.java</name>
+<size>1749</size>
+<commit
+   revision="14">
+<author>brian.hauger</author>
+<date>2013-09-12T04:14:13.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/src/Chess/Model/Pieces/Knight.java</name>
+<size>1999</size>
+<commit
+   revision="14">
+<author>brian.hauger</author>
+<date>2013-09-12T04:14:13.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/src/Chess/Model/Pieces/Pawn.java</name>
+<size>2646</size>
+<commit
+   revision="14">
+<author>brian.hauger</author>
+<date>2013-09-12T04:14:13.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/src/Chess/Model/Pieces/Queen.java</name>
+<size>1560</size>
+<commit
+   revision="14">
+<author>brian.hauger</author>
+<date>2013-09-12T04:14:13.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/src/Chess/Model/Pieces/Rook.java</name>
+<size>2907</size>
+<commit
+   revision="14">
+<author>brian.hauger</author>
+<date>2013-09-12T04:14:13.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>trunk/src/Chess/Model/Player</name>
+<commit
+   revision="14">
+<author>brian.hauger</author>
+<date>2013-09-12T04:14:13.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/src/Chess/Model/Player/Player.java</name>
+<size>1741</size>
+<commit
+   revision="14">
+<author>brian.hauger</author>
+<date>2013-09-12T04:14:13.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>trunk/src/Chess/View</name>
+<commit
+   revision="16">
+<author>brian.hauger</author>
+<date>2013-09-12T04:14:13.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/src/Chess/View/BoardGUI.java</name>
+<size>6150</size>
+<commit
+   revision="16">
+<author>brian.hauger</author>
+<date>2013-09-12T04:14:13.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/src/Chess/View/ChessPanel.java</name>
+<size>1631</size>
+<commit
+   revision="16">
+<author>brian.hauger</author>
+<date>2013-09-19T13:14:41.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>trunk/src/images</name>
+<commit
+   revision="10">
+<author>brian.hauger</author>
+<date>2013-09-12T06:41:58.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/src/images/chesspieces.png</name>
+<size>17032</size>
+<commit
+   revision="10">
+<author>brian.hauger</author>
+<date>2013-09-12T06:41:58.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>trunk/test</name>
+<commit
+   revision="16">
+<author>brian.hauger</author>
+<date>2013-09-11T19:08:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>trunk/test/Chess</name>
+<commit
+   revision="16">
+<author>brian.hauger</author>
+<date>2013-09-11T19:08:07.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>trunk/test/Chess/Model</name>
+<commit
+   revision="16">
+<author>brian.hauger</author>
+<date>2013-09-12T04:14:13.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>trunk/test/Chess/Model/Board</name>
+<commit
+   revision="14">
+<author>brian.hauger</author>
+<date>2013-09-12T04:14:13.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/test/Chess/Model/Board/ChessBoardTest.java</name>
+<size>3761</size>
+<commit
+   revision="14">
+<author>brian.hauger</author>
+<date>2013-09-12T04:14:13.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>trunk/test/Chess/Model/Pieces</name>
+<commit
+   revision="16">
+<author>brian.hauger</author>
+<date>2013-09-12T04:14:13.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/test/Chess/Model/Pieces/ArchBishopTest.java</name>
+<size>521</size>
+<commit
+   revision="14">
+<author>brian.hauger</author>
+<date>2013-09-19T13:14:41.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/test/Chess/Model/Pieces/BishopTest.java</name>
+<size>531</size>
+<commit
+   revision="14">
+<author>brian.hauger</author>
+<date>2013-09-12T04:14:13.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/test/Chess/Model/Pieces/BitchTest.java</name>
+<size>691</size>
+<commit
+   revision="14">
+<author>brian.hauger</author>
+<date>2013-09-19T13:14:41.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/test/Chess/Model/Pieces/ChessPieceTest.java</name>
+<size>2180</size>
+<commit
+   revision="16">
+<author>brian.hauger</author>
+<date>2013-09-12T04:14:13.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/test/Chess/Model/Pieces/KingTest.java</name>
+<size>551</size>
+<commit
+   revision="14">
+<author>brian.hauger</author>
+<date>2013-09-12T04:14:13.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/test/Chess/Model/Pieces/KnightTest.java</name>
+<size>566</size>
+<commit
+   revision="14">
+<author>brian.hauger</author>
+<date>2013-09-12T04:14:13.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/test/Chess/Model/Pieces/PawnTest.java</name>
+<size>695</size>
+<commit
+   revision="14">
+<author>brian.hauger</author>
+<date>2013-09-12T04:14:13.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/test/Chess/Model/Pieces/QueenTest.java</name>
+<size>504</size>
+<commit
+   revision="14">
+<author>brian.hauger</author>
+<date>2013-09-12T04:14:13.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/test/Chess/Model/Pieces/RookTest.java</name>
+<size>670</size>
+<commit
+   revision="14">
+<author>brian.hauger</author>
+<date>2013-09-12T04:14:13.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>trunk/test/Chess/Model/Player</name>
+<commit
+   revision="14">
+<author>brian.hauger</author>
+<date>2013-09-12T04:14:13.000000Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>trunk/test/Chess/Model/Player/PlayerTest.java</name>
+<size>491</size>
+<commit
+   revision="14">
+<author>brian.hauger</author>
+<date>2013-09-12T04:14:13.000000Z</date>
+</commit>
+</entry>
+</list>
+</lists>

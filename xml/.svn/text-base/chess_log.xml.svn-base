@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="21">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+<paths>
+<path
+   kind="dir"
+   copyfrom-path="/trunk"
+   copyfrom-rev="17"
+   action="A">/tags/1.2.1</path>
+</paths>
+<msg>Undo Finished
+</msg>
+</logentry>
+<logentry
+   revision="20">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+<paths>
+<path
+   copyfrom-path="/trunk"
+   copyfrom-rev="16"
+   action="A"
+   kind="dir">/tags/1.2.0</path>
+</paths>
+<msg>Undo Finished
+</msg>
+</logentry>
+<logentry
+   revision="19">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+<paths>
+<path
+   kind="dir"
+   copyfrom-path="/trunk"
+   copyfrom-rev="13"
+   action="A">/tags/1.1.0</path>
+</paths>
+<msg>Assignment 1.1
+</msg>
+</logentry>
+<logentry
+   revision="18">
+<author>brian.hauger</author>
+<date>2013-09-05T21:00:36.000000Z</date>
+<paths>
+<path
+   kind="dir"
+   copyfrom-path="/trunk"
+   copyfrom-rev="7"
+   action="A">/tags/1.0.0</path>
+</paths>
+<msg>Logic finished needs more testing.
+</msg>
+</logentry>
+<logentry
+   revision="17">
+<author>brian.hauger</author>
+<date>2013-09-19T21:35:04.000000Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/trunk/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/trunk/Manual Test Plan.pdf</path>
+</paths>
+<msg>Undo Finished
+</msg>
+</logentry>
+<logentry
+   revision="16">
+<author>brian.hauger</author>
+<date>2013-09-19T20:58:29.000000Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/trunk/test/Chess/Model/Pieces/ChessPieceTest.java</path>
+<path
+   kind="file"
+   action="M">/trunk/src/Chess/Controller/ChessController.java</path>
+<path
+   kind="file"
+   action="M">/trunk/src/Chess/View/ChessPanel.java</path>
+<path
+   action="M"
+   kind="file">/trunk/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/trunk/src/Chess/Model/Pieces/ChessPiece.java</path>
+<path
+   kind="file"
+   action="M">/trunk/src/Chess/Model/Board/ChessBoard.java</path>
+<path
+   kind="file"
+   action="M">/trunk/src/Chess/View/BoardGUI.java</path>
+<path
+   action="D"
+   kind="file">/trunk/src/Chess/Controller/MenuMouseListeners.java</path>
+</paths>
+<msg>Undo Finished
+</msg>
+</logentry>
+<logentry
+   revision="15">
+<author>brian.hauger</author>
+<date>2013-09-19T14:32:48.000000Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/trunk/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/trunk/src/Chess/Model/Board/ChessBoard.java</path>
+<path
+   action="M"
+   kind="file">/trunk/src/Chess/View/BoardGUI.java</path>
+</paths>
+<msg>All enums
+</msg>
+</logentry>
+<logentry
+   revision="14">
+<author>brian.hauger</author>
+<date>2013-09-19T13:14:41.000000Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/trunk/src/Chess/Controller</path>
+<path
+   kind="file"
+   action="M">/trunk/src/Chess/Model/Board/ChessBoard.java</path>
+<path
+   kind="file"
+   action="M">/trunk/test/Chess/Model/Pieces/PawnTest.java</path>
+<path
+   action="M"
+   kind="file">/trunk/src/Chess/View/BoardGUI.java</path>
+<path
+   kind="file"
+   action="M">/trunk/test/Chess/Model/Pieces/RookTest.java</path>
+<path
+   kind="file"
+   action="M">/trunk/test/Chess/Model/Pieces/ChessPieceTest.java</path>
+<path
+   kind="file"
+   action="M">/trunk/src/Chess/Model/Pieces/Pawn.java</path>
+<path
+   action="M"
+   kind="file">/trunk/test/Chess/Model/Pieces/QueenTest.java</path>
+<path
+   kind="file"
+   action="M">/trunk/test/Chess/Model/Player/PlayerTest.java</path>
+<path
+   kind="file"
+   action="M">/trunk/src/Chess/Model/Pieces/Rook.java</path>
+<path
+   action="A"
+   kind="file">/trunk/test/Chess/Model/Pieces/ArchBishopTest.java</path>
+<path
+   kind="file"
+   action="M">/trunk/src/Chess/Model/Pieces/ChessPiece.java</path>
+<path
+   kind="file"
+   action="M">/trunk/test/Chess/Model/Pieces/BishopTest.java</path>
+<path
+   action="M"
+   kind="file">/trunk/test/Chess/Model/Pieces/KnightTest.java</path>
+<path
+   action="M"
+   kind="file">/trunk/src/Chess/Model/Pieces/Queen.java</path>
+<path
+   kind="file"
+   action="M">/trunk/src/Chess/Model/Player/Player.java</path>
+<path
+   kind="file"
+   action="M">/trunk/test/Chess/Model/Pieces/KingTest.java</path>
+<path
+   action="A"
+   kind="file">/trunk/src/Chess/Controller/MenuMouseListeners.java</path>
+<path
+   kind="file"
+   action="A">/trunk/test/Chess/Model/Pieces/BitchTest.java</path>
+<path
+   kind="file"
+   action="M">/trunk/src/Chess/Model/Pieces/ArchBishop.java</path>
+<path
+   kind="file"
+   action="A">/trunk/src/Chess/Controller/ChessController.java</path>
+<path
+   action="M"
+   kind="file">/trunk/src/Chess/Model/Pieces/Knight.java</path>
+<path
+   kind="file"
+   action="M">/trunk/src/Chess/Model/Pieces/Bishop.java</path>
+<path
+   action="M"
+   kind="file">/trunk/test/Chess/Model/Board/ChessBoardTest.java</path>
+<path
+   action="A"
+   kind="file">/trunk/src/Chess/View/ChessPanel.java</path>
+<path
+   kind="file"
+   action="M">/trunk/src/Chess/Model/Pieces/King.java</path>
+<path
+   kind="file"
+   action="M">/trunk/src/Chess/Model/Pieces/Bitch.java</path>
+<path
+   action="M"
+   kind="file">/trunk/.idea/workspace.xml</path>
+</paths>
+<msg>Player color enum and full tests.
+</msg>
+</logentry>
+<logentry
+   revision="13">
+<author>brian.hauger</author>
+<date>2013-09-12T21:05:07.000000Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/trunk/src/Chess/Model/Board/ChessBoard.java</path>
+<path
+   kind="file"
+   action="A">/trunk/Doxyfile</path>
+<path
+   action="M"
+   kind="file">/trunk/test/Chess/Model/Player/PlayerTest.java</path>
+<path
+   action="M"
+   kind="file">/trunk/.idea/workspace.xml</path>
+</paths>
+<msg>Assignment 1.1
+</msg>
+</logentry>
+<logentry
+   revision="12">
+<author>brian.hauger</author>
+<date>2013-09-12T20:33:28.000000Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/trunk/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/trunk/src/Chess/Model/Pieces/Bitch.java</path>
+<path
+   action="M"
+   kind="file">/trunk/src/Chess/Model/Board/ChessBoard.java</path>
+<path
+   action="M"
+   kind="file">/trunk/src/Chess/View/BoardGUI.java</path>
+</paths>
+<msg>New Pieces fully created
+</msg>
+</logentry>
+<logentry
+   revision="11">
+<author>brian.hauger</author>
+<date>2013-09-12T19:59:30.000000Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/trunk/src/Chess/Model/Pieces/Queen.java</path>
+<path
+   action="M"
+   kind="file">/trunk/src/Chess/View/BoardGUI.java</path>
+<path
+   kind="file"
+   action="M">/trunk/src/Chess/Model/Player/Player.java</path>
+<path
+   kind="file"
+   action="A">/trunk/src/Chess/Model/Pieces/ArchBishop.java</path>
+<path
+   kind="file"
+   action="M">/trunk/src/Chess/Model/Pieces/Bishop.java</path>
+<path
+   action="M"
+   kind="file">/trunk/src/Chess/Model/Pieces/Knight.java</path>
+<path
+   kind="file"
+   action="M">/trunk/test/Chess/Model/Board/ChessBoardTest.java</path>
+<path
+   kind="file"
+   action="M">/trunk/src/Chess/Model/Pieces/Pawn.java</path>
+<path
+   action="M"
+   kind="file">/trunk/src/Chess/Model/Pieces/King.java</path>
+<path
+   action="M"
+   kind="file">/trunk/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/trunk/src/Chess/Model/Pieces/Bitch.java</path>
+<path
+   action="M"
+   kind="file">/trunk/src/Chess/Model/Pieces/Rook.java</path>
+<path
+   action="M"
+   kind="file">/trunk/src/Chess/Model/Pieces/ChessPiece.java</path>
+<path
+   action="M"
+   kind="file">/trunk/src/Chess/Model/Board/ChessBoard.java</path>
+</paths>
+<msg>New Pieces and Documentation comments fixed
+</msg>
+</logentry>
+<logentry
+   revision="10">
+<author>brian.hauger</author>
+<date>2013-09-12T06:41:58.000000Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/trunk/src/Chess/View/BoardGUI.java</path>
+<path
+   kind="dir"
+   action="A">/trunk/src/images</path>
+<path
+   action="M"
+   kind="file">/trunk/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/trunk/src/images/chesspieces.png</path>
+</paths>
+<msg>Static GUI Implemented
+</msg>
+</logentry>
+<logentry
+   revision="9">
+<author>brian.hauger</author>
+<date>2013-09-12T04:14:13.000000Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/trunk/test/Chess/Board/ChessBoardTest.java</path>
+<path
+   kind="file"
+   action="A">/trunk/test/Chess/Model/Board/ChessBoardTest.java</path>
+<path
+   action="D"
+   kind="dir">/trunk/test/Chess/Board</path>
+<path
+   action="A"
+   kind="dir">/trunk/test/Chess/Model/Board</path>
+<path
+   kind="file"
+   action="D">/trunk/src/Chess/Board/ChessBoard.java</path>
+<path
+   action="A"
+   kind="file">/trunk/src/Chess/Model/Board/ChessBoard.java</path>
+<path
+   action="D"
+   kind="dir">/trunk/test/Chess/Player</path>
+<path
+   kind="dir"
+   action="A">/trunk/test/Chess/Model/Player</path>
+<path
+   kind="file"
+   action="D">/trunk/test/Chess/Pieces/PawnTest.java</path>
+<path
+   kind="file"
+   action="A">/trunk/test/Chess/Model/Pieces/PawnTest.java</path>
+<path
+   action="D"
+   kind="dir">/trunk/src/Chess/Board</path>
+<path
+   kind="dir"
+   action="A">/trunk/src/Chess/Model/Board</path>
+<path
+   kind="file"
+   action="D">/trunk/test/Chess/Pieces/ChessPieceTest.java</path>
+<path
+   kind="file"
+   action="A">/trunk/test/Chess/Model/Pieces/ChessPieceTest.java</path>
+<path
+   action="A"
+   kind="dir">/trunk/src/Chess/Model/Player</path>
+<path
+   action="D"
+   kind="dir">/trunk/src/Chess/Player</path>
+<path
+   kind="file"
+   action="A">/trunk/src/Chess/Model/Pieces/Pawn.java</path>
+<path
+   action="D"
+   kind="file">/trunk/src/Chess/Pieces/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/trunk/src/Chess/Model/Pieces/ChessPiece.java</path>
+<path
+   kind="file"
+   action="D">/trunk/src/Chess/Pieces/ChessPiece.java</path>
+<path
+   kind="file"
+   action="D">/trunk/test/Chess/Pieces/BishopTest.java</path>
+<path
+   action="D"
+   kind="file">/trunk/test/Chess/Pieces/KnightTest.java</path>
+<path
+   action="A"
+   kind="file">/trunk/test/Chess/Model/Pieces/BishopTest.java</path>
+<path
+   kind="file"
+   action="A">/trunk/test/Chess/Model/Pieces/KnightTest.java</path>
+<path
+   action="D"
+   kind="file">/trunk/test/Chess/Pieces/KingTest.java</path>
+<path
+   kind="file"
+   action="A">/trunk/test/Chess/Model/Pieces/KingTest.java</path>
+<path
+   kind="dir"
+   action="A">/trunk/src/Chess/View</path>
+<path
+   kind="file"
+   action="A">/trunk/src/Chess/Model/Pieces/Knight.java</path>
+<path
+   action="A"
+   kind="file">/trunk/src/Chess/Model/Pieces/Bishop.java</path>
+<path
+   action="D"
+   kind="file">/trunk/src/Chess/Pieces/Bishop.java</path>
+<path
+   kind="file"
+   action="D">/trunk/src/Chess/Pieces/Knight.java</path>
+<path
+   kind="file"
+   action="A">/trunk/src/Chess/Model/Pieces/King.java</path>
+<path
+   action="D"
+   kind="file">/trunk/src/Chess/Pieces/King.java</path>
+<path
+   action="M"
+   kind="file">/trunk/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/trunk/src/Chess/View/BoardGUI.java</path>
+<path
+   kind="dir"
+   action="A">/trunk/test/Chess/Model</path>
+<path
+   action="D"
+   kind="file">/trunk/test/Chess/Pieces/RookTest.java</path>
+<path
+   kind="file"
+   action="A">/trunk/test/Chess/Model/Pieces/RookTest.java</path>
+<path
+   kind="file"
+   action="D">/trunk/test/Chess/Pieces/QueenTest.java</path>
+<path
+   action="A"
+   kind="file">/trunk/test/Chess/Model/Pieces/QueenTest.java</path>
+<path
+   kind="dir"
+   action="D">/trunk/test/Chess/Pieces</path>
+<path
+   kind="dir"
+   action="A">/trunk/src/Chess/Model</path>
+<path
+   kind="file"
+   action="D">/trunk/test/Chess/Player/PlayerTest.java</path>
+<path
+   action="A"
+   kind="dir">/trunk/test/Chess/Model/Pieces</path>
+<path
+   kind="file"
+   action="A">/trunk/test/Chess/Model/Player/PlayerTest.java</path>
+<path
+   kind="file"
+   action="A">/trunk/src/Chess/Model/Pieces/Rook.java</path>
+<path
+   action="D"
+   kind="file">/trunk/src/Chess/Pieces/Rook.java</path>
+<path
+   kind="file"
+   action="A">/trunk/src/Chess/Model/Pieces/Queen.java</path>
+<path
+   kind="file"
+   action="D">/trunk/src/Chess/Pieces/Queen.java</path>
+<path
+   kind="file"
+   action="A">/trunk/src/Chess/Model/Player/Player.java</path>
+<path
+   action="A"
+   kind="dir">/trunk/src/Chess/Model/Pieces</path>
+<path
+   kind="dir"
+   action="D">/trunk/src/Chess/Pieces</path>
+<path
+   kind="file"
+   action="D">/trunk/src/Chess/Player/Player.java</path>
+</paths>
+<msg>Gui without pieces
+</msg>
+</logentry>
+<logentry
+   revision="8">
+<author>brian.hauger</author>
+<date>2013-09-11T19:08:07.000000Z</date>
+<paths>
+<path
+   action="D"
+   kind="file">/trunk/src/Chess/Queen.java</path>
+<path
+   kind="file"
+   action="A">/trunk/.idea/compiler.xml</path>
+<path
+   kind="file"
+   action="A">/trunk/test/Chess/Pieces/QueenTest.java</path>
+<path
+   action="A"
+   kind="file">/trunk/src/Chess/Pieces/Rook.java</path>
+<path
+   action="D"
+   kind="file">/trunk/src/Chess/Knight.java</path>
+<path
+   action="D"
+   kind="file">/trunk/src/Chess/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/trunk/test/Chess/Pieces/BishopTest.java</path>
+<path
+   kind="file"
+   action="A">/trunk/test/Chess/Pieces/KnightTest.java</path>
+<path
+   action="A"
+   kind="dir">/trunk/src/Chess/Pieces</path>
+<path
+   kind="file"
+   action="D">/trunk/src/Chess/King.java</path>
+<path
+   kind="file"
+   action="A">/trunk/.idea/scopes/scope_settings.xml</path>
+<path
+   action="A"
+   kind="file">/trunk/src/Chess/Player/Player.java</path>
+<path
+   action="A"
+   kind="file">/trunk/test/Chess/Pieces/KingTest.java</path>
+<path
+   kind="file"
+   action="D">/trunk/src/Chess/Player.java</path>
+<path
+   kind="file"
+   action="A">/trunk/test/Chess/Board/ChessBoardTest.java</path>
+<path
+   action="A"
+   kind="file">/trunk/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/trunk/.idea/vcs.xml</path>
+<path
+   kind="dir"
+   action="A">/trunk/test/Chess/Board</path>
+<path
+   action="A"
+   kind="file">/trunk/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="dir">/trunk/test</path>
+<path
+   kind="file"
+   action="D">/trunk/src/Chess/ChessTest.java</path>
+<path
+   action="D"
+   kind="file">/trunk/src/Chess/Rook.java</path>
+<path
+   action="A"
+   kind="file">/trunk/test/Chess/Pieces/RookTest.java</path>
+<path
+   kind="dir"
+   action="A">/trunk/src/Chess/Player</path>
+<path
+   kind="file"
+   action="A">/trunk/src/Chess/Pieces/Pawn.java</path>
+<path
+   action="D"
+   kind="file">/trunk/src/Chess/ChessBoard.java</path>
+<path
+   kind="file"
+   action="A">/trunk/.idea/copyright/profiles_settings.xml</path>
+<path
+   kind="dir"
+   action="A">/trunk/test/Chess/Pieces</path>
+<path
+   action="A"
+   kind="file">/trunk/test/Chess/Player/PlayerTest.java</path>
+<path
+   action="A"
+   kind="file">/trunk/src/Chess/Pieces/ChessPiece.java</path>
+<path
+   kind="file"
+   action="A">/trunk/src/Chess/Pieces/Queen.java</path>
+<path
+   action="A"
+   kind="file">/trunk/src/Chess/Pieces/Knight.java</path>
+<path
+   action="A"
+   kind="file">/trunk/src/Chess/Pieces/Bishop.java</path>
+<path
+   action="A"
+   kind="file">/trunk/src/Chess/Pieces/King.java</path>
+<path
+   kind="dir"
+   action="A">/trunk/.idea/scopes</path>
+<path
+   action="A"
+   kind="file">/trunk/.idea/uiDesigner.xml</path>
+<path
+   kind="file"
+   action="A">/trunk/.idea/.name</path>
+<path
+   kind="file"
+   action="A">/trunk/src/Chess/Board/ChessBoard.java</path>
+<path
+   action="A"
+   kind="dir">/trunk/test/Chess/Player</path>
+<path
+   action="D"
+   kind="file">/trunk/src/Chess/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/trunk/test/Chess/Pieces/PawnTest.java</path>
+<path
+   action="A"
+   kind="dir">/trunk/src/Chess/Board</path>
+<path
+   action="A"
+   kind="dir">/trunk/test/Chess</path>
+<path
+   kind="file"
+   action="A">/trunk/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="D">/trunk/src/Chess/ChessPiece.java</path>
+<path
+   action="A"
+   kind="file">/trunk/test/Chess/Pieces/ChessPieceTest.java</path>
+<path
+   action="A"
+   kind="dir">/trunk/.idea/copyright</path>
+<path
+   kind="file"
+   action="A">/trunk/.idea/encodings.xml</path>
+</paths>
+<msg>Added test directory with test files.
+</msg>
+</logentry>
+<logentry
+   revision="7">
+<author>brian.hauger</author>
+<date>2013-09-05T21:00:36.000000Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/trunk/src/Chess/Player.java</path>
+<path
+   action="M"
+   kind="file">/trunk/src/Chess/ChessBoard.java</path>
+</paths>
+<msg>Logic finished needs more testing.
+</msg>
+</logentry>
+<logentry
+   revision="6">
+<author>brian.hauger</author>
+<date>2013-09-05T19:04:58.000000Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/trunk/.idea</path>
+<path
+   action="M"
+   kind="file">/trunk/src/Chess/ChessTest.java</path>
+<path
+   kind="file"
+   action="M">/trunk/src/Chess/King.java</path>
+<path
+   kind="file"
+   action="A">/trunk/src/Chess/Player.java</path>
+<path
+   action="M"
+   kind="file">/trunk/src/Chess/ChessBoard.java</path>
+<path
+   action="M"
+   kind="file">/trunk/src/Chess/Queen.java</path>
+<path
+   kind="file"
+   action="A">/trunk/.idea/dictionaries/Haugerbr.xml</path>
+<path
+   kind="dir"
+   action="A">/trunk/.idea/dictionaries</path>
+</paths>
+<msg>King in check logic finished.
+</msg>
+</logentry>
+<logentry
+   revision="5">
+<author>brian.hauger</author>
+<date>2013-09-05T13:03:45.000000Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/trunk/src/Chess/Bishop.java</path>
+<path
+   kind="file"
+   action="M">/trunk/src/Chess/Pawn.java</path>
+</paths>
+<msg>Pieces done
+</msg>
+</logentry>
+<logentry
+   revision="4">
+<author>brian.hauger</author>
+<date>2013-09-05T06:02:01.000000Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/trunk/src/Chess/Rook.java</path>
+<path
+   kind="file"
+   action="A">/trunk/src/Chess/ChessPiece.java</path>
+<path
+   action="A"
+   kind="file">/trunk/src/Chess/ChessBoard.java</path>
+<path
+   action="A"
+   kind="file">/trunk/src/Chess/Queen.java</path>
+<path
+   kind="file"
+   action="D">/trunk/src/Knight.java</path>
+<path
+   kind="file"
+   action="D">/trunk/src/Bishop.java</path>
+<path
+   action="A"
+   kind="dir">/trunk/src/Chess</path>
+<path
+   action="D"
+   kind="file">/trunk/src/King.java</path>
+<path
+   kind="file"
+   action="A">/trunk/src/Chess/Knight.java</path>
+<path
+   action="A"
+   kind="file">/trunk/src/Chess/Bishop.java</path>
+<path
+   action="A"
+   kind="file">/trunk/src/Chess/King.java</path>
+<path
+   kind="file"
+   action="D">/trunk/src/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/trunk/src/Chess/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/trunk/src/Chess/ChessTest.java</path>
+<path
+   kind="file"
+   action="D">/trunk/src/Rook.java</path>
+<path
+   kind="file"
+   action="D">/trunk/src/ChessPiece.java</path>
+<path
+   action="D"
+   kind="file">/trunk/src/Queen.java</path>
+<path
+   kind="file"
+   action="D">/trunk/src/ChessBoard.java</path>
+</paths>
+<msg>Functionality except for pawn.
+</msg>
+</logentry>
+<logentry
+   revision="3">
+<author>brian.hauger</author>
+<date>2013-09-04T04:07:29.000000Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/trunk/src/ChessBoard.java</path>
+<path
+   kind="file"
+   action="A">/trunk/src/Queen.java</path>
+<path
+   action="A"
+   kind="file">/trunk/src/Bishop.java</path>
+<path
+   action="A"
+   kind="file">/trunk/src/Knight.java</path>
+<path
+   kind="file"
+   action="A">/trunk/src/Pawn.java</path>
+<path
+   action="D"
+   kind="file">/trunk/src/Board.java</path>
+<path
+   kind="file"
+   action="A">/trunk/src/King.java</path>
+<path
+   kind="file"
+   action="A">/trunk/src/Rook.java</path>
+<path
+   kind="file"
+   action="A">/trunk/src/ChessPiece.java</path>
+</paths>
+<msg>Design Structure Created
+</msg>
+</logentry>
+<logentry
+   revision="2">
+<author>brian.hauger</author>
+<date>2013-09-04T01:37:22.000000Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/trunk/src/Board.java</path>
+<path
+   kind="dir"
+   action="A">/trunk/src</path>
+</paths>
+<msg>Empty Board Class
+</msg>
+</logentry>
+<logentry
+   revision="1">
+<author>brian.hauger</author>
+<date>2013-09-04T01:31:47.000000Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/trunk/README</path>
+<path
+   action="A"
+   kind="dir">/trunk</path>
+<path
+   action="A"
+   kind="dir">/branches</path>
+</paths>
+<msg>First commit
+</msg>
+</logentry>
+</log>
