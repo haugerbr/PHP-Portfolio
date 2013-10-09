@@ -29,20 +29,28 @@
         </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="#">Home</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#contact">Contact</a></li>
+            <li class="active"><a href="./index.php">Home</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
     </div>
 
     <div class="container">
-
       <div class="starter-template">
-        <h1>Bootstrap starter template</h1>
-        <p class="lead">Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.</p>
-      </div>
+      	<table class="table">
+      		<thead>
+      			<tr> 
+      				<th>Title</th>
+      				<th>Date</th>
+      				<th>Version</th>
+      				<th>Summary</th>
+      			</tr>
+      		</thead>
+      		<tbody>
+      		<? include("PHP/XMLParse.php") ?>
+      		</tbody>
+      	</table>
+   	  </div>
 
     </div><!-- /.container -->
 

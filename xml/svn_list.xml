@@ -1,0 +1,2534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/fa13-cs242/hauger3">
+<entry
+   kind="dir">
+<name>Assignment0</name>
+<commit
+   revision="1452">
+<author>hauger3</author>
+<date>2013-08-29T15:43:40.464692Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.project</name>
+<size>204</size>
+<commit
+   revision="1452">
+<author>hauger3</author>
+<date>2013-08-29T15:43:40.464692Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/parmake.c</name>
+<size>6780</size>
+<commit
+   revision="1450">
+<author>hauger3</author>
+<date>2013-08-29T15:42:10.930461Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/server.c</name>
+<size>7950</size>
+<commit
+   revision="1450">
+<author>hauger3</author>
+<date>2013-08-29T15:42:10.930461Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0</name>
+<commit
+   revision="8872">
+<author>hauger3</author>
+<date>2013-10-04T23:49:07.767405Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.idea</name>
+<commit
+   revision="8872">
+<author>hauger3</author>
+<date>2013-10-04T23:49:07.767405Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.idea/dictionaries</name>
+<commit
+   revision="8872">
+<author>hauger3</author>
+<date>2013-10-04T23:49:07.767405Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/dictionaries/Haugerbr.xml</name>
+<size>188</size>
+<commit
+   revision="8872">
+<author>hauger3</author>
+<date>2013-10-04T23:49:07.767405Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/README</name>
+<size>75</size>
+<commit
+   revision="8872">
+<author>hauger3</author>
+<date>2013-10-04T23:49:07.767405Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src</name>
+<commit
+   revision="8872">
+<author>hauger3</author>
+<date>2013-10-04T23:49:07.767405Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/Chess</name>
+<commit
+   revision="8872">
+<author>hauger3</author>
+<date>2013-10-04T23:49:07.767405Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Chess/Bishop.java</name>
+<size>2246</size>
+<commit
+   revision="8872">
+<author>hauger3</author>
+<date>2013-10-04T23:49:07.767405Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Chess/ChessBoard.java</name>
+<size>12404</size>
+<commit
+   revision="8872">
+<author>hauger3</author>
+<date>2013-10-04T23:49:07.767405Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Chess/ChessPiece.java</name>
+<size>1988</size>
+<commit
+   revision="8872">
+<author>hauger3</author>
+<date>2013-10-04T23:49:07.767405Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Chess/ChessTest.java</name>
+<size>1230</size>
+<commit
+   revision="8872">
+<author>hauger3</author>
+<date>2013-10-04T23:49:07.767405Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Chess/King.java</name>
+<size>1774</size>
+<commit
+   revision="8872">
+<author>hauger3</author>
+<date>2013-10-04T23:49:07.767405Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Chess/Knight.java</name>
+<size>1929</size>
+<commit
+   revision="8872">
+<author>hauger3</author>
+<date>2013-10-04T23:49:07.767405Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Chess/Pawn.java</name>
+<size>2771</size>
+<commit
+   revision="8872">
+<author>hauger3</author>
+<date>2013-10-04T23:49:07.767405Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Chess/Player.java</name>
+<size>1320</size>
+<commit
+   revision="8872">
+<author>hauger3</author>
+<date>2013-10-04T23:49:07.767405Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Chess/Queen.java</name>
+<size>1378</size>
+<commit
+   revision="8872">
+<author>hauger3</author>
+<date>2013-10-04T23:49:07.767405Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Chess/Rook.java</name>
+<size>2790</size>
+<commit
+   revision="8872">
+<author>hauger3</author>
+<date>2013-10-04T23:49:07.767405Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1</name>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/.idea</name>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/.name</name>
+<size>10</size>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/compiler.xml</name>
+<size>711</size>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/.idea/copyright</name>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/copyright/profiles_settings.xml</name>
+<size>111</size>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/.idea/dictionaries</name>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/dictionaries/Haugerbr.xml</name>
+<size>188</size>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/encodings.xml</name>
+<size>166</size>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/misc.xml</name>
+<size>1299</size>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/modules.xml</name>
+<size>262</size>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/.idea/scopes</name>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/scopes/scope_settings.xml</name>
+<size>139</size>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/uiDesigner.xml</name>
+<size>8794</size>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/vcs.xml</name>
+<size>169</size>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.idea/workspace.xml</name>
+<size>48210</size>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Doxyfile</name>
+<size>101977</size>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/README</name>
+<size>75</size>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src</name>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/Chess</name>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/Chess/Model</name>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/Chess/Model/Board</name>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Chess/Model/Board/ChessBoard.java</name>
+<size>13464</size>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/Chess/Model/Pieces</name>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Chess/Model/Pieces/ArchBishop.java</name>
+<size>1340</size>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Chess/Model/Pieces/Bishop.java</name>
+<size>2306</size>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Chess/Model/Pieces/Bitch.java</name>
+<size>2556</size>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Chess/Model/Pieces/ChessPiece.java</name>
+<size>1976</size>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Chess/Model/Pieces/King.java</name>
+<size>1754</size>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Chess/Model/Pieces/Knight.java</name>
+<size>1989</size>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Chess/Model/Pieces/Pawn.java</name>
+<size>2831</size>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Chess/Model/Pieces/Queen.java</name>
+<size>1438</size>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Chess/Model/Pieces/Rook.java</name>
+<size>2786</size>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/Chess/Model/Player</name>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Chess/Model/Player/Player.java</name>
+<size>1609</size>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/Chess/View</name>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/Chess/View/BoardGUI.java</name>
+<size>5365</size>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/images</name>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/images/chesspieces.png</name>
+<size>17032</size>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/test</name>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/test/Chess</name>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/test/Chess/Model</name>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/test/Chess/Model/Board</name>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/test/Chess/Model/Board/ChessBoardTest.java</name>
+<size>1008</size>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/test/Chess/Model/Pieces</name>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/test/Chess/Model/Pieces/BishopTest.java</name>
+<size>308</size>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/test/Chess/Model/Pieces/ChessPieceTest.java</name>
+<size>520</size>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/test/Chess/Model/Pieces/KingTest.java</name>
+<size>306</size>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/test/Chess/Model/Pieces/KnightTest.java</name>
+<size>308</size>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/test/Chess/Model/Pieces/PawnTest.java</name>
+<size>306</size>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/test/Chess/Model/Pieces/QueenTest.java</name>
+<size>307</size>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/test/Chess/Model/Pieces/RookTest.java</name>
+<size>306</size>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/test/Chess/Model/Player</name>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/test/Chess/Model/Player/PlayerTest.java</name>
+<size>439</size>
+<commit
+   revision="8873">
+<author>hauger3</author>
+<date>2013-10-04T23:49:54.847488Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2</name>
+<commit
+   revision="8868">
+<author>hauger3</author>
+<date>2013-10-04T23:18:56.258369Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/.idea</name>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/.name</name>
+<size>10</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/compiler.xml</name>
+<size>711</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/.idea/copyright</name>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/copyright/profiles_settings.xml</name>
+<size>111</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/.idea/dictionaries</name>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/dictionaries/Haugerbr.xml</name>
+<size>188</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/encodings.xml</name>
+<size>166</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/misc.xml</name>
+<size>1299</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/modules.xml</name>
+<size>262</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/.idea/scopes</name>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/scopes/scope_settings.xml</name>
+<size>139</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/uiDesigner.xml</name>
+<size>8794</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/vcs.xml</name>
+<size>169</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.idea/workspace.xml</name>
+<size>66837</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Doxyfile</name>
+<size>101977</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Manual Test Plan.pdf</name>
+<size>1754695</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/README</name>
+<size>75</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/cs242Chess.iml</name>
+<size>741</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out</name>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production</name>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/cs242Chess</name>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/cs242Chess/Chess</name>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/cs242Chess/Chess/Controller</name>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/cs242Chess/Chess/Controller/ChessController.class</name>
+<size>3897</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/cs242Chess/Chess/Model</name>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/cs242Chess/Chess/Model/Board</name>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/cs242Chess/Chess/Model/Board/ChessBoard.class</name>
+<size>7590</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/cs242Chess/Chess/Model/Pieces</name>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/cs242Chess/Chess/Model/Pieces/ArchBishop.class</name>
+<size>1232</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/cs242Chess/Chess/Model/Pieces/Bishop.class</name>
+<size>1566</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/cs242Chess/Chess/Model/Pieces/Bitch.class</name>
+<size>2366</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/cs242Chess/Chess/Model/Pieces/ChessPiece$Team.class</name>
+<size>1093</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/cs242Chess/Chess/Model/Pieces/ChessPiece.class</name>
+<size>1843</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/cs242Chess/Chess/Model/Pieces/King.class</name>
+<size>1545</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/cs242Chess/Chess/Model/Pieces/Knight.class</name>
+<size>1671</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/cs242Chess/Chess/Model/Pieces/Pawn.class</name>
+<size>1904</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/cs242Chess/Chess/Model/Pieces/Queen.class</name>
+<size>1425</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/cs242Chess/Chess/Model/Pieces/Rook.class</name>
+<size>1876</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/cs242Chess/Chess/Model/Player</name>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/cs242Chess/Chess/Model/Player/Player.class</name>
+<size>1614</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/cs242Chess/Chess/View</name>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/cs242Chess/Chess/View/BoardGUI$1.class</name>
+<size>650</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/cs242Chess/Chess/View/BoardGUI$2.class</name>
+<size>666</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/cs242Chess/Chess/View/BoardGUI$PieceLabels.class</name>
+<size>2564</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/cs242Chess/Chess/View/BoardGUI.class</name>
+<size>4033</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/cs242Chess/Chess/View/ChessPanel.class</name>
+<size>1702</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/cs242Chess/debug.txt</name>
+<size>468</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/production/cs242Chess/images</name>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/production/cs242Chess/images/chesspieces.png</name>
+<size>17032</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/test</name>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/test/cs242Chess</name>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/test/cs242Chess/Chess</name>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/test/cs242Chess/Chess/Model</name>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/test/cs242Chess/Chess/Model/Board</name>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/test/cs242Chess/Chess/Model/Board/ChessBoardTest.class</name>
+<size>3578</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/test/cs242Chess/Chess/Model/Pieces</name>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/test/cs242Chess/Chess/Model/Pieces/ArchBishopTest.class</name>
+<size>1098</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/test/cs242Chess/Chess/Model/Pieces/BishopTest.class</name>
+<size>1078</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/test/cs242Chess/Chess/Model/Pieces/BitchTest.class</name>
+<size>1346</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/test/cs242Chess/Chess/Model/Pieces/ChessPieceTest.class</name>
+<size>2209</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/test/cs242Chess/Chess/Model/Pieces/KingTest.class</name>
+<size>1092</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/test/cs242Chess/Chess/Model/Pieces/KnightTest.class</name>
+<size>907</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/test/cs242Chess/Chess/Model/Pieces/PawnTest.class</name>
+<size>966</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/test/cs242Chess/Chess/Model/Pieces/QueenTest.class</name>
+<size>1090</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/test/cs242Chess/Chess/Model/Pieces/RookTest.class</name>
+<size>1085</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/out/test/cs242Chess/Chess/Model/Player</name>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/out/test/cs242Chess/Chess/Model/Player/PlayerTest.class</name>
+<size>1166</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src</name>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/Chess</name>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/Chess/Controller</name>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Chess/Controller/ChessController.java</name>
+<size>5477</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/Chess/Model</name>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/Chess/Model/Board</name>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Chess/Model/Board/ChessBoard.java</name>
+<size>13772</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/Chess/Model/Pieces</name>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Chess/Model/Pieces/ArchBishop.java</name>
+<size>1336</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Chess/Model/Pieces/Bishop.java</name>
+<size>2306</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Chess/Model/Pieces/Bitch.java</name>
+<size>2538</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Chess/Model/Pieces/ChessPiece.java</name>
+<size>3124</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Chess/Model/Pieces/King.java</name>
+<size>1749</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Chess/Model/Pieces/Knight.java</name>
+<size>1999</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Chess/Model/Pieces/Pawn.java</name>
+<size>2646</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Chess/Model/Pieces/Queen.java</name>
+<size>1560</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Chess/Model/Pieces/Rook.java</name>
+<size>2907</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/Chess/Model/Player</name>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Chess/Model/Player/Player.java</name>
+<size>1741</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/Chess/View</name>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Chess/View/BoardGUI.java</name>
+<size>6150</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/Chess/View/ChessPanel.java</name>
+<size>1631</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/debug.txt</name>
+<size>468</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/images</name>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/images/chesspieces.png</name>
+<size>17032</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/test</name>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/test/Chess</name>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/test/Chess/Model</name>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/test/Chess/Model/Board</name>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/test/Chess/Model/Board/ChessBoardTest.java</name>
+<size>3761</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/test/Chess/Model/Pieces</name>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/test/Chess/Model/Pieces/ArchBishopTest.java</name>
+<size>521</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/test/Chess/Model/Pieces/BishopTest.java</name>
+<size>531</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/test/Chess/Model/Pieces/BitchTest.java</name>
+<size>691</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/test/Chess/Model/Pieces/ChessPieceTest.java</name>
+<size>2180</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/test/Chess/Model/Pieces/KingTest.java</name>
+<size>551</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/test/Chess/Model/Pieces/KnightTest.java</name>
+<size>566</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/test/Chess/Model/Pieces/PawnTest.java</name>
+<size>695</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/test/Chess/Model/Pieces/QueenTest.java</name>
+<size>504</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/test/Chess/Model/Pieces/RookTest.java</name>
+<size>670</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/test/Chess/Model/Player</name>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/test/Chess/Model/Player/PlayerTest.java</name>
+<size>491</size>
+<commit
+   revision="6487">
+<author>hauger3</author>
+<date>2013-09-19T21:56:58.875032Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0</name>
+<commit
+   revision="8869">
+<author>hauger3</author>
+<date>2013-10-04T23:27:35.257038Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/city.rb</name>
+<size>1162</size>
+<commit
+   revision="8869">
+<author>hauger3</author>
+<date>2013-10-04T23:27:35.257038Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/csair.rb</name>
+<size>1056</size>
+<commit
+   revision="8869">
+<author>hauger3</author>
+<date>2013-10-04T23:27:35.257038Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/graph.rb</name>
+<size>4280</size>
+<commit
+   revision="8869">
+<author>hauger3</author>
+<date>2013-10-04T23:27:35.257038Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/graphtests.rb</name>
+<size>3999</size>
+<commit
+   revision="8869">
+<author>hauger3</author>
+<date>2013-10-04T23:27:35.257038Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/interfacefunctions.rb</name>
+<size>5105</size>
+<commit
+   revision="8869">
+<author>hauger3</author>
+<date>2013-10-04T23:27:35.257038Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/map_data.json</name>
+<size>16098</size>
+<commit
+   revision="8869">
+<author>hauger3</author>
+<date>2013-10-04T23:27:35.257038Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/route.rb</name>
+<size>394</size>
+<commit
+   revision="8869">
+<author>hauger3</author>
+<date>2013-10-04T23:27:35.257038Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/utils.rb</name>
+<size>1047</size>
+<commit
+   revision="8869">
+<author>hauger3</author>
+<date>2013-10-04T23:27:35.257038Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1</name>
+<commit
+   revision="8870">
+<author>hauger3</author>
+<date>2013-10-04T23:29:51.673591Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/city.rb</name>
+<size>1158</size>
+<commit
+   revision="8870">
+<author>hauger3</author>
+<date>2013-10-04T23:29:51.673591Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/cmi_hub.json</name>
+<size>1627</size>
+<commit
+   revision="8870">
+<author>hauger3</author>
+<date>2013-10-04T23:29:51.673591Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/csair.rb</name>
+<size>1254</size>
+<commit
+   revision="8870">
+<author>hauger3</author>
+<date>2013-10-04T23:29:51.673591Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/graph.rb</name>
+<size>826</size>
+<commit
+   revision="8870">
+<author>hauger3</author>
+<date>2013-10-04T23:29:51.673591Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/graphtests.rb</name>
+<size>4334</size>
+<commit
+   revision="8870">
+<author>hauger3</author>
+<date>2013-10-04T23:29:51.673591Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/graphutils.rb</name>
+<size>6470</size>
+<commit
+   revision="8870">
+<author>hauger3</author>
+<date>2013-10-04T23:29:51.673591Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/interfacefunctions.rb</name>
+<size>8748</size>
+<commit
+   revision="8870">
+<author>hauger3</author>
+<date>2013-10-04T23:29:51.673591Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/map_data.json</name>
+<size>28951</size>
+<commit
+   revision="8870">
+<author>hauger3</author>
+<date>2013-10-04T23:29:51.673591Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/route.rb</name>
+<size>394</size>
+<commit
+   revision="8870">
+<author>hauger3</author>
+<date>2013-10-04T23:29:51.673591Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/utils.rb</name>
+<size>1634</size>
+<commit
+   revision="8870">
+<author>hauger3</author>
+<date>2013-10-04T23:29:51.673591Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0</name>
+<commit
+   revision="8999">
+<author>hauger3</author>
+<date>2013-10-08T13:00:07.564292Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/cgi-bin</name>
+<commit
+   revision="8891">
+<author>hauger3</author>
+<date>2013-10-05T18:00:06.468825Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/css</name>
+<commit
+   revision="8880">
+<author>hauger3</author>
+<date>2013-10-05T02:21:22.204819Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/css/bootstrap.css</name>
+<size>119189</size>
+<commit
+   revision="8880">
+<author>hauger3</author>
+<date>2013-10-05T02:21:22.204819Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/css/bootstrap.min.css</name>
+<size>101077</size>
+<commit
+   revision="8880">
+<author>hauger3</author>
+<date>2013-10-05T02:21:22.204819Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/css/fonts</name>
+<commit
+   revision="8880">
+<author>hauger3</author>
+<date>2013-10-05T02:21:22.204819Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/css/fonts/glyphicons-halflings-regular.eot</name>
+<size>25271</size>
+<commit
+   revision="8880">
+<author>hauger3</author>
+<date>2013-10-05T02:21:22.204819Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/css/fonts/glyphicons-halflings-regular.svg</name>
+<size>63157</size>
+<commit
+   revision="8880">
+<author>hauger3</author>
+<date>2013-10-05T02:21:22.204819Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/css/fonts/glyphicons-halflings-regular.ttf</name>
+<size>39816</size>
+<commit
+   revision="8880">
+<author>hauger3</author>
+<date>2013-10-05T02:21:22.204819Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/css/fonts/glyphicons-halflings-regular.woff</name>
+<size>30354</size>
+<commit
+   revision="8880">
+<author>hauger3</author>
+<date>2013-10-05T02:21:22.204819Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/css/main.css</name>
+<size>96</size>
+<commit
+   revision="8880">
+<author>hauger3</author>
+<date>2013-10-05T02:21:22.204819Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/index.php</name>
+<size>2041</size>
+<commit
+   revision="8999">
+<author>hauger3</author>
+<date>2013-10-08T13:00:07.564292Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/javascript</name>
+<commit
+   revision="8880">
+<author>hauger3</author>
+<date>2013-10-05T02:21:22.204819Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/javascript/bootstrap.js</name>
+<size>58274</size>
+<commit
+   revision="8880">
+<author>hauger3</author>
+<date>2013-10-05T02:21:22.204819Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/javascript/bootstrap.min.js</name>
+<size>27913</size>
+<commit
+   revision="8880">
+<author>hauger3</author>
+<date>2013-10-05T02:21:22.204819Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/javascript/jquery.js</name>
+<size>83612</size>
+<commit
+   revision="8880">
+<author>hauger3</author>
+<date>2013-10-05T02:21:22.204819Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/xml</name>
+<commit
+   revision="8891">
+<author>hauger3</author>
+<date>2013-10-05T18:00:06.468825Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/xml/CSair_list.xml</name>
+<size>6213</size>
+<commit
+   revision="8891">
+<author>hauger3</author>
+<date>2013-10-05T18:00:06.468825Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/xml/CSair_log.xml</name>
+<size>8959</size>
+<commit
+   revision="8891">
+<author>hauger3</author>
+<date>2013-10-05T18:00:06.468825Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/xml/chess_list.xml</name>
+<size>49930</size>
+<commit
+   revision="8891">
+<author>hauger3</author>
+<date>2013-10-05T18:00:06.468825Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/xml/chess_log.xml</name>
+<size>19949</size>
+<commit
+   revision="8891">
+<author>hauger3</author>
+<date>2013-10-05T18:00:06.468825Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0</name>
+<commit
+   revision="1420">
+<author>hauger3</author>
+<date>2013-08-29T15:03:11.025455Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/.classpath</name>
+<size>457</size>
+<commit
+   revision="1420">
+<author>hauger3</author>
+<date>2013-08-29T15:03:11.025455Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/.project</name>
+<size>362</size>
+<commit
+   revision="1296">
+<author>hauger3</author>
+<date>2013-08-29T04:44:00.639020Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/.settings</name>
+<commit
+   revision="1296">
+<author>hauger3</author>
+<date>2013-08-29T04:44:00.639020Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/.settings/org.eclipse.jdt.core.prefs</name>
+<size>629</size>
+<commit
+   revision="1296">
+<author>hauger3</author>
+<date>2013-08-29T04:44:00.639020Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/COPYING</name>
+<size>18011</size>
+<commit
+   revision="1296">
+<author>hauger3</author>
+<date>2013-08-29T04:44:00.639020Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/bin</name>
+<commit
+   revision="1296">
+<author>hauger3</author>
+<date>2013-08-29T04:44:00.639020Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/doc</name>
+<commit
+   revision="1296">
+<author>hauger3</author>
+<date>2013-08-29T04:44:00.639020Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/LANSimulationDocument.pdf</name>
+<size>36375</size>
+<commit
+   revision="1296">
+<author>hauger3</author>
+<date>2013-08-29T04:44:00.639020Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/README</name>
+<size>1230</size>
+<commit
+   revision="1296">
+<author>hauger3</author>
+<date>2013-08-29T04:44:00.639020Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/RefactoringAssignment.pdf</name>
+<size>139491</size>
+<commit
+   revision="1296">
+<author>hauger3</author>
+<date>2013-08-29T04:44:00.639020Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/toDoList</name>
+<size>1772</size>
+<commit
+   revision="1296">
+<author>hauger3</author>
+<date>2013-08-29T04:44:00.639020Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/expectedOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="1296">
+<author>hauger3</author>
+<date>2013-08-29T04:44:00.639020Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/javadoc.xml</name>
+<size>393</size>
+<commit
+   revision="1296">
+<author>hauger3</author>
+<date>2013-08-29T04:44:00.639020Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src</name>
+<commit
+   revision="1420">
+<author>hauger3</author>
+<date>2013-08-29T15:03:11.025455Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src/lanSimulation</name>
+<commit
+   revision="1420">
+<author>hauger3</author>
+<date>2013-08-29T15:03:11.025455Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/LANSimulation.java</name>
+<size>5845</size>
+<commit
+   revision="1296">
+<author>hauger3</author>
+<date>2013-08-29T04:44:00.639020Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/Network.java</name>
+<size>11807</size>
+<commit
+   revision="1420">
+<author>hauger3</author>
+<date>2013-08-29T15:03:11.025455Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src/lanSimulation/internals</name>
+<commit
+   revision="1420">
+<author>hauger3</author>
+<date>2013-08-29T15:03:11.025455Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/internals/Node.java</name>
+<size>4172</size>
+<commit
+   revision="1420">
+<author>hauger3</author>
+<date>2013-08-29T15:03:11.025455Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/internals/Packet.java</name>
+<size>1828</size>
+<commit
+   revision="1296">
+<author>hauger3</author>
+<date>2013-08-29T04:44:00.639020Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src/lanSimulation/tests</name>
+<commit
+   revision="1420">
+<author>hauger3</author>
+<date>2013-08-29T15:03:11.025455Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/tests/LANTests.java</name>
+<size>10294</size>
+<commit
+   revision="1420">
+<author>hauger3</author>
+<date>2013-08-29T15:03:11.025455Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/useOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="1296">
+<author>hauger3</author>
+<date>2013-08-29T04:44:00.639020Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>shopping</name>
+<commit
+   revision="1210">
+<author>hauger3</author>
+<date>2013-08-29T03:36:41.374624Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shopping/list1.txt</name>
+<size>56</size>
+<commit
+   revision="1020">
+<author>hauger3</author>
+<date>2013-08-29T01:58:49.116778Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shopping/list2.txt</name>
+<size>77</size>
+<commit
+   revision="1073">
+<author>hauger3</author>
+<date>2013-08-29T02:32:50.976614Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shopping/list3.txt</name>
+<size>54</size>
+<commit
+   revision="1210">
+<author>hauger3</author>
+<date>2013-08-29T03:36:41.374624Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>shopping/localgrocery</name>
+<commit
+   revision="1098">
+<author>hauger3</author>
+<date>2013-08-29T02:47:19.104992Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shopping/localgrocery/list1.txt</name>
+<size>56</size>
+<commit
+   revision="1098">
+<author>hauger3</author>
+<date>2013-08-29T02:47:19.104992Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shopping/localgrocery/list2.txt</name>
+<size>77</size>
+<commit
+   revision="1098">
+<author>hauger3</author>
+<date>2013-08-29T02:47:19.104992Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>shopping/localgrocerydup</name>
+<commit
+   revision="1105">
+<author>hauger3</author>
+<date>2013-08-29T02:48:33.560351Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shopping/localgrocerydup/list1.txt</name>
+<size>56</size>
+<commit
+   revision="1105">
+<author>hauger3</author>
+<date>2013-08-29T02:48:33.560351Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shopping/localgrocerydup/list2.txt</name>
+<size>77</size>
+<commit
+   revision="1105">
+<author>hauger3</author>
+<date>2013-08-29T02:48:33.560351Z</date>
+</commit>
+</entry>
+</list>
+</lists>
