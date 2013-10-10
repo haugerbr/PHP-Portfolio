@@ -3,7 +3,7 @@
 	
 	class File {
 
-		private $name = null;
+		public $name = null;
 		private $size = null;
 		private $type = null;
 		private $path = null;
@@ -17,17 +17,18 @@
 		}
 		
 		function createTableRow(){
-			echo '<tr><td>'.$this->name.'</td><td>'.$this->size.'</td><td>'.$this->path.'</td><td>'.$this->type.'</td></tr>';
+			echo '<tr><td><a class="File" id="'.$this->path.'" href="#">'.$this->name.'</a></td><td>'.$this->size.'</td><td>'.$this->path.
+				'</td><td>'.$this->type.'</td></tr>';
 		}
 		
 		function createRevisionTable(){
-			echo '<thead><tr><th>Revision #</th><th>Author</th><th>Info</th><th>Date</th></tr></thead><tbody>';
+			echo '<table id="'.$this->name.'" class="table"><thead><tr><th>Revision #</th><th>Author</th><th>Info</th><th>Date</th></tr></thead><tbody>';
 			
-			foreach($revisions as $revision){
+			foreach($this->revisions as $revision){
 				$revision->createTableRow();
 			}
 			
-			echo '</tbody>';
+			echo '</tbody></table>';
 
 		}
 

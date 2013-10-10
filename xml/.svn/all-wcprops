@@ -9,6 +9,12 @@ svn:wc:ra_dav:version-url
 V 70
 /svn/fa13-cs242/!svn/ver/8891/hauger3/Assignment3.0/xml/chess_list.xml
 END
+svn_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/fa13-cs242/!svn/ver/9104/hauger3/Assignment3.0/xml/svn_list.xml
+END
 CSair_log.xml
 K 25
 svn:wc:ra_dav:version-url

@@ -8,6 +8,7 @@
 	$files = $xml->xpath("//entry[@kind='file']");
 
 	$assignment_array = array();
+	$file_array = array();
 
 	foreach ($directories as $dir){
 	
@@ -25,13 +26,23 @@
 	foreach ($files as $file){
 		$raw_name = $file->name->__toString();
 		$assignment = strtok($raw_name,"/");
-		$file_name = substr($raw_name,strrpos($raw_name,"/"));
+		$file_name = substr($raw_name,strrpos($raw_name,"/")+1);
 		$type = substr($raw_name,strrpos($raw_name, "."));
 		$path = $file->name->__toString();
 		$size = $file->size->__toString();
 		$assignment_array[$assignment]->files[$file_name] = new File($file_name,$size,$type,$path);	
 	
 	}
-
+	
+	foreach ($assignment_array as $assignment){
+	$assignment->createFileTable();
+		foreach($assignment->files as $file){
+			if(!array_key_exists($file->name,$file_array)){
+				$file_array[$file->name] = $file;
+				$file->createRevisionTable();
+			}
+		}
+	}
+ 	
 
 ?>

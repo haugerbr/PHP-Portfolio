@@ -37,7 +37,8 @@
 
     <div class="container">
       <div class="starter-template">
-      	<table class="table">
+      <button type="button" class="btn btn-primary pull-left">Show File</button>
+      	<table id="root" class="table">
       		<thead>
       			<tr> 
       				<th>Title</th>
@@ -51,7 +52,7 @@
       		</tbody>
       	</table>
    	  </div>
-
+	<div id="frame"></div>
     </div><!-- /.container -->
 
 
@@ -60,5 +61,6 @@
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="javascript/jquery.js"></script>
     <script src="javascript/bootstrap.min.js"></script>
+    <script src="javascript/utils.js"></script>
   </body>
 </html>
