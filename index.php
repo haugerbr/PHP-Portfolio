@@ -37,7 +37,7 @@
 
     <div class="container">
       <div class="starter-template">
-      <button type="button" class="btn btn-primary pull-left">Show File</button>
+      <button id="file" type="button" class="btn btn-primary pull-left">Show File</button>
       	<table id="root" class="table">
       		<thead>
       			<tr> 
@@ -48,11 +48,15 @@
       			</tr>
       		</thead>
       		<tbody>
-      		<? include("PHP/XMLParse.php") ?>
+      		<?php include_once("PHP/XMLParse.php") ?>
       		</tbody>
       	</table>
    	  </div>
 	<div id="frame"></div>
+	<button id="commentButton" type="button" class="btn btn-primary pull-left">Add Comment</button>
+	<div id="comments">
+		<?php include_once("PHP/RetrieveComments.php") ?>
+	</div>
     </div><!-- /.container -->
 
 

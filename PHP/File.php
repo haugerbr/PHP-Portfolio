@@ -17,7 +17,7 @@
 		}
 		
 		function createTableRow(){
-			echo '<tr><td><a class="File" id="'.$this->path.'" href="#">'.$this->name.'</a></td><td>'.$this->size.'</td><td>'.$this->path.
+			echo '<tr><td><a class="File" id="'.$this->path.'">'.$this->name.'</a></td><td>'.$this->size.'</td><td>'.$this->path.
 				'</td><td>'.$this->type.'</td></tr>';
 		}
 		

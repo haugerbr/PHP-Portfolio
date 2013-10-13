@@ -17,7 +17,7 @@
 		
 		//Creates a table row for the assignment table
 		function createTableRow(){
-			echo '<tr><td><a href="#">'.$this->name.'</a></td><td>'.$this->date.'</td><td>'.$this->version.'</td></tr>';
+			echo '<tr><td><a>'.$this->name.'</a></td><td>'.$this->date.'</td><td>'.$this->version.'</td></tr>';
 		}
 		
 		function createFileTable(){

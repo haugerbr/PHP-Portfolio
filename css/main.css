@@ -16,3 +16,23 @@ iframe {
 	width:700px;
 	height:700px;
 }
+
+a {
+	cursor: pointer;
+}
+
+h3 a{
+	color: green;
+}
+
+#comments{
+	margin-top: 20px;
+}
+
+textarea{
+	margin-bottom: 10px;
+}
+
+#commentButton{
+	margin-top: -30px;
+}

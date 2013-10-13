@@ -2,7 +2,7 @@ $(document).ready(function(){
 
 	$(".table").hide();
 	$("#root").show();
-	$(".btn").hide();
+	$("#file").hide();
 
 	$('td a').click(function(){
 		//Check if last table was file table
@@ -24,13 +24,24 @@ $(document).ready(function(){
 		//Build button fuctionality if needed
 		if(showButton){
 			var path = $(this).attr("id");
-			$('.btn').delay(500).fadeIn(500);
-			$('.btn').click(function(){
+			$('#file').delay(500).fadeIn(500);
+			$('#file').click(function(){
 				$('#frame').append('<iframe src="https://subversion.ews.illinois.edu/svn/fa13-cs242/hauger3/'+path+'"></iframe>')
-				$('.btn').fadeOut(500);
+				$('#file').fadeOut(500);
 			});
 		}
 			
+	});
+	
+	$('h3 a').click(function(){
+		$(this).fadeOut(500);
+		$parent = $(this).parents(".panel");
+		$parent.after('<textarea class="form-control" rows="3"></textarea>');
+	});
+	
+	$('#commentButton').click(function(){
+		$(this).fadeOut(500);
+		$(this).after('<textarea class="form-control" rows="3"></textarea>');
 	});
 
 });
