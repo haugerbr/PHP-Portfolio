@@ -1,4 +1,15 @@
-function checkBadWords(message){
+function cleanBadWords(message){
+		var cleancontent;
+		$.ajax({
+		type: 'POST',
+		url: 'PHP/CleanComment.php',
+		data: {comment: message},
+		async: false
+		})
+		.done(function(returndata){
+			cleancontent =returndata;
+		});
+		return cleancontent;
 
 }
 
@@ -14,12 +25,11 @@ function submitButtonHandler(parent_id){
 	
 	$('#submit').click(function(){
 		var content = $(this).parents('#buttons').siblings('textarea').val();
-		
+		var cleancontent = cleanBadWords(content);
 		$.ajax({
 		type: 'POST',
 		url: 'PHP/CreateComment.php',
-		data: {comment: content, parent: parent_id },
-		beforeSend: checkBadWords(content)
+		data: {comment: cleancontent, parent: parent_id }
 		})
 		.done(function(returndata){
 		//return data not used for now
