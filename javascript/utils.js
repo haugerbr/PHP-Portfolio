@@ -6,17 +6,62 @@ function cancelButtonHandler(hiddenButton){
 		});
 }
 
+function submitButtonHandler(){
+	$('#submit').click(function(){
+		var content = $(this).parents('#buttons').siblings('textarea').val();
+		$.ajax({
+		type: 'POST',
+		url: 'PHP/CreateComment.php',
+		data: {comment: content}
+		})
+		.done(function(returndata){
+			alert(returndata);
+		});
+	
+	});
+}
+
+function replyButtonHandler(content){
+	$('h3 a').click(function(){
+		textareaClose($(this));
+		$('#commentButton').fadeIn(500);
+		$parent = $(this).parents('.panel-default');
+		$parent.after(content);
+		cancelButtonHandler($(this));
+		submitButtonHandler();
+	});
+
+}
+
+function commentButtonHandler(content){
+	$('#commentButton').click(function(){
+		textareaClose($(this));
+		$(this).after(content);
+		cancelButtonHandler($(this));
+		submitButtonHandler();
+	});	
+
+}
+
+function textareaClose(element){
+	$('#buttons').remove();
+	$('textarea').remove();
+	$('h3 a').fadeIn(500);
+	element.fadeOut(500);
+}
+
+
 $(document).ready(function(){
 
-	$(".table").hide();
-	$("#root").show();
-	$("#file").hide();
+	$('.table').hide();
+	$('#root').show();
+	$('#file').hide();
 
 	$('td a').click(function(){
 		//Check if last table was file table
 		var showButton = $('.File').is(':visible')
 		
-		$(".table").fadeOut(500);
+		$('.table').fadeOut(500);
 		
 		//Find ID of new table to load.
 		var tableID = '#'+$(this).text().replace('.','\\.');
@@ -33,36 +78,13 @@ $(document).ready(function(){
 		}
 			
 	});
+
 	
 	var commentBoxAndButtons = '<textarea class="form-control" rows="3"></textarea>'+
 		'<div id="buttons"><button id="submit" class="btn btn-primary pull-right">Submit</button>'+
 		'<button id="cancel" class="btn btn-default pull-right">Cancel</button></div>';
 		
-	$('h3 a').click(function(){
-		$('#buttons').remove();
-		$('textarea').remove();
-		$('#commentButton').fadeIn(500);
-		$('h3 a').fadeIn(500);
-		$(this).fadeOut(500);
-		$parent = $(this).parents('.panel-default');
-		$parent.after(commentBoxAndButtons);
-		cancelButtonHandler($(this));
-	});
-	
-	$('#commentButton').click(function(){
-		$('#buttons').remove();
-		$('textarea').remove();
-		$('h3 a').fadeIn(500);
-		$(this).fadeOut(500);
-		$(this).after(commentBoxAndButtons);
-		cancelButtonHandler($(this));
-	});
-	
-	$('#submit').click(function(){
-	
-	
-	});
-	
-
+	replyButtonHandler(commentBoxAndButtons);
+	commentButtonHandler(commentBoxAndButtons);
 	
 });
