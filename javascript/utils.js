@@ -1,3 +1,7 @@
+function checkBadWords(message){
+
+}
+
 function cancelButtonHandler(hiddenButton){
 		$('#cancel').click(function(){
 			$('#buttons').remove();
@@ -6,16 +10,19 @@ function cancelButtonHandler(hiddenButton){
 		});
 }
 
-function submitButtonHandler(){
+function submitButtonHandler(parent_id){
+	
 	$('#submit').click(function(){
 		var content = $(this).parents('#buttons').siblings('textarea').val();
+		
 		$.ajax({
 		type: 'POST',
 		url: 'PHP/CreateComment.php',
-		data: {comment: content}
+		data: {comment: content, parent: parent_id },
+		beforeSend: checkBadWords(content)
 		})
 		.done(function(returndata){
-			alert(returndata);
+		//return data not used for now
 		});
 	
 	});
@@ -27,8 +34,9 @@ function replyButtonHandler(content){
 		$('#commentButton').fadeIn(500);
 		$parent = $(this).parents('.panel-default');
 		$parent.after(content);
+		var parent_id = $parent.attr('id');
 		cancelButtonHandler($(this));
-		submitButtonHandler();
+		submitButtonHandler(parent_id);
 	});
 
 }
@@ -38,7 +46,7 @@ function commentButtonHandler(content){
 		textareaClose($(this));
 		$(this).after(content);
 		cancelButtonHandler($(this));
-		submitButtonHandler();
+		submitButtonHandler(0);
 	});	
 
 }
