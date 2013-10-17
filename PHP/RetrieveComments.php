@@ -39,17 +39,17 @@
 	
 	foreach ($parentcomments as $parentcomment){
 	
-	$comment =  '<div>	
-					<div id="'.$parentcomment[0].'" class="panel panel-default">
-						<div class="panel-heading">
-    		  				<h3 class="panel-title">'.$parentcomment[1].'<a class="pull-right">Reply</a></h3>
-  		    			</div>
-  		    			<div class="panel-body">
-              				'.htmlspecialchars($parentcomment[2], ENT_QUOTES).'
-            			</div>
-            		</div>';
+		$comment =  '<div>	
+						<div id="'.$parentcomment[0].'" class="panel panel-default">
+							<div class="panel-heading">
+    		  					<h3 class="panel-title">'.$parentcomment[1].'<a class="pull-right">Reply</a></h3>
+  		    				</div>
+  		    				<div class="panel-body">
+              					'.htmlspecialchars($parentcomment[2], ENT_QUOTES).'
+            				</div>
+            			</div>';
            $comment .= findChildren($parentcomment[0],$childcomments);
-   $comment .= '</div>';
+   		$comment .= '</div>';
            
   		  echo $comment;
 	}

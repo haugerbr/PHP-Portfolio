@@ -12,5 +12,6 @@
 		$message = str_ireplace($wordpair[0],$wordpair[1],$message);
 	}
 	
-	echo $message
+	echo $message;
+	
 ?>

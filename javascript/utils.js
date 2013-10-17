@@ -1,3 +1,7 @@
+function refreshComments{
+
+}
+
 function cleanBadWords(message){
 		var cleancontent;
 		$.ajax({
@@ -24,15 +28,21 @@ function cancelButtonHandler(hiddenButton){
 function submitButtonHandler(parent_id){
 	
 	$('#submit').click(function(){
+		
 		var content = $(this).parents('#buttons').siblings('textarea').val();
 		var cleancontent = cleanBadWords(content);
+		
+		textareaClose($('textarea'));
+		$('#commentButton').fadeIn(500);
+		$('h3 a').fadeIn(500);
+
 		$.ajax({
 		type: 'POST',
 		url: 'PHP/CreateComment.php',
 		data: {comment: cleancontent, parent: parent_id }
 		})
 		.done(function(returndata){
-		//return data not used for now
+			
 		});
 	
 	});
@@ -62,8 +72,8 @@ function commentButtonHandler(content){
 }
 
 function textareaClose(element){
-	$('#buttons').remove();
-	$('textarea').remove();
+	$('#buttons').fadeOut(500).remove();
+	$('textarea').fadeOut(500).remove();
 	$('h3 a').fadeIn(500);
 	element.fadeOut(500);
 }
