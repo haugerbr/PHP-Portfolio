@@ -24,7 +24,7 @@
             			</div>
             		</div>';
              
- /**           foreach($childcomments as $childcomment){
+            foreach($childcomments as $childcomment){
             	if( $childcomment[3] == $parentcomment[0]){
             		$comment .= '<div class="child pull-right">
             						<div id="'.$childcomment[0].'" class="panel panel-default">
@@ -39,7 +39,7 @@
             			
 
             	}
-            } **/
+            } 
   		  echo $comment;
 	}
 ?>
