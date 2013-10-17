@@ -11,7 +11,7 @@
     									<h3 class="panel-title">'.$childcomment[1].'<a class="pull-right">Reply</a></h3>
   		    						</div>
   		    						<div class="panel-body">
-              							'.$childcomment[2].'
+              							'.htmlspecialchars($childcomment[2], ENT_QUOTES).'
             						</div>
             					</div>'
             					.findChildren($childcomment[0],$childcomments).		

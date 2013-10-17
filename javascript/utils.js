@@ -1,5 +1,19 @@
-function refreshComments{
+var commentBoxAndButtons = '<textarea class="form-control" rows="3"></textarea>'+
+	'<div id="buttons"><button id="submit" class="btn btn-primary pull-right">Submit</button>'+
+	'<button id="cancel" class="btn btn-default pull-right">Cancel</button></div>';
 
+
+
+function refreshComments(){		
+		$.ajax({
+		url: 'PHP/RetrieveComments.php'
+		})
+		.done(function(returndata){
+			$('.panel').fadeOut(1000,$('#comments').empty());
+			$('#comments').append(returndata);
+			replyButtonHandler(commentBoxAndButtons);
+		});
+	
 }
 
 function cleanBadWords(message){
@@ -42,7 +56,7 @@ function submitButtonHandler(parent_id){
 		data: {comment: cleancontent, parent: parent_id }
 		})
 		.done(function(returndata){
-			
+			refreshComments();
 		});
 	
 	});
@@ -107,11 +121,7 @@ $(document).ready(function(){
 			
 	});
 
-	
-	var commentBoxAndButtons = '<textarea class="form-control" rows="3"></textarea>'+
-		'<div id="buttons"><button id="submit" class="btn btn-primary pull-right">Submit</button>'+
-		'<button id="cancel" class="btn btn-default pull-right">Cancel</button></div>';
-		
+			
 	replyButtonHandler(commentBoxAndButtons);
 	commentButtonHandler(commentBoxAndButtons);
 	
