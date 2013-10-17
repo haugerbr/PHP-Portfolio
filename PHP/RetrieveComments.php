@@ -1,6 +1,30 @@
 <?php
 	include_once("DatabaseUtils.php");
 	
+	function findChildren($parentid,$childcomments){
+		$comment = '';
+       	foreach($childcomments as $childcomment){
+            if( $childcomment[3] == $parentid){
+            	$comment .= '<div class="child pull-right">
+            					<div id="'.$childcomment[0].'" class="panel panel-default">
+            						<div class="panel-heading">
+    									<h3 class="panel-title">'.$childcomment[1].'<a class="pull-right">Reply</a></h3>
+  		    						</div>
+  		    						<div class="panel-body">
+              							'.$childcomment[2].'
+            						</div>
+            					</div>'
+            					.findChildren($childcomment[0],$childcomments).		
+            				'</div>';
+            			
+            }
+        }
+        return $comment; 
+		
+	}
+	
+	
+	
 	$statement = $mysqli->prepare("SELECT * FROM Comments WHERE parent_id IS NULL");
 	$statement->execute();
 	$parentcomments = $statement->get_result();
@@ -24,24 +48,9 @@
               				'.htmlspecialchars($parentcomment[2], ENT_QUOTES).'
             			</div>
             		</div>';
-             
-            foreach($childcomments as $childcomment){
-            	if( $childcomment[3] == $parentcomment[0]){
-            		$comment .= '<div class="child pull-right">
-            						<div id="'.$childcomment[0].'" class="panel panel-default">
-            							<div class="panel-heading">
-    		  								<h3 class="panel-title">'.$childcomment[1].'<a class="pull-right">Reply</a></h3>
-  		    							</div>
-  		    							<div class="panel-body">
-              							'.$childcomment[2].'
-            							</div>
-            						</div>		
-            					</div>';
-            			
-
-            	}
-            } 
-           $comment .= "</div>";
+           $comment .= findChildren($parentcomment[0],$childcomments);
+   $comment .= '</div>';
+           
   		  echo $comment;
 	}
 ?>

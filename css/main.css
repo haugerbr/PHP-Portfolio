@@ -39,9 +39,7 @@ textarea{
 }
 
 .child{
-	width:95%;
-	margin-top: 10px;
-	margin-bottom:10px;
+	width:97%;
 }
 
 #cancel{
@@ -54,4 +52,5 @@ textarea{
 
 .panel{
 	clear:both;
+	margin-bottom:10px;
 }
