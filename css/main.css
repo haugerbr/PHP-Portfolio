@@ -51,3 +51,7 @@ textarea{
 #buttons{
 	margin-bottom:50px;
 }
+
+.panel{
+	clear:both;
+}

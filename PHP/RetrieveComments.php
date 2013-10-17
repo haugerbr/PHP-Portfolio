@@ -15,7 +15,8 @@
 	
 	foreach ($parentcomments as $parentcomment){
 	
-	$comment =  '	<div id="'.$parentcomment[0].'" class="panel panel-default">
+	$comment =  '<div>	
+					<div id="'.$parentcomment[0].'" class="panel panel-default">
 						<div class="panel-heading">
     		  				<h3 class="panel-title">'.$parentcomment[1].'<a class="pull-right">Reply</a></h3>
   		    			</div>
@@ -40,6 +41,7 @@
 
             	}
             } 
+           $comment .= "</div>";
   		  echo $comment;
 	}
 ?>
