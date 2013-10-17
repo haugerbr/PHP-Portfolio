@@ -26,7 +26,7 @@ h3 a{
 }
 
 #comments{
-	margin-top: 20px;
+	margin-top: 60px;
 }
 
 textarea{
@@ -34,5 +34,20 @@ textarea{
 }
 
 #commentButton{
-	margin-top: -30px;
+	margin-top: 15px;
+	margin-bottom:10px;
+}
+
+.child{
+	width:95%;
+	margin-top: 10px;
+	margin-bottom:10px;
+}
+
+#cancel{
+	margin-right :5px;
+}
+
+#buttons{
+	margin-bottom:50px;
 }
