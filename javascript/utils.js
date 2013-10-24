@@ -74,7 +74,7 @@ var submitButtonHandler = function(parent_id){
 	});
 }
 
-function replyButtonHandler(content){
+var replyButtonHandler = function(content){
 	$('h3 a').click(function(){
 		textareaClose($(this));
 		$('#commentButton').fadeIn(500);
@@ -87,7 +87,7 @@ function replyButtonHandler(content){
 
 }
 
-function commentButtonHandler(content){
+var commentButtonHandler = function(content){
 	$('#commentButton').click(function(){
 		textareaClose($(this));
 		$(this).after(content);
@@ -97,7 +97,7 @@ function commentButtonHandler(content){
 
 }
 
-function textareaClose(element){
+var textareaClose = function(element){
 	$('#buttons').fadeOut(500).remove();
 	$('textarea').fadeOut(500).remove();
 	$('h3 a').fadeIn(500);
