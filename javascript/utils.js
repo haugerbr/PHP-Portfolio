@@ -20,7 +20,7 @@ var getFileContents = function(filepath){
 
 var refreshComments = function(){		
 		$.ajax({
-		url: 'PHP/RetrieveComments.php'
+			url: 'PHP/RetrieveComments.php'
 		})
 		.done(function(returndata){
 			$('.panel').fadeOut(1000,$('#comments').empty());
@@ -33,10 +33,10 @@ var refreshComments = function(){
 var cleanBadWords = function(message){
 		var cleancontent;
 		$.ajax({
-		type: 'POST',
-		url: 'PHP/CleanComment.php',
-		data: {comment: message},
-		async: false
+			type: 'POST',
+			url: 'PHP/CleanComment.php',
+			data: {comment: message},
+			async: false
 		})
 		.done(function(returndata){
 			cleancontent =returndata;
@@ -65,9 +65,9 @@ var submitButtonHandler = function(parent_id){
 		$('h3 a').fadeIn(500);
 
 		$.ajax({
-		type: 'POST',
-		url: 'PHP/CreateComment.php',
-		data: {comment: cleancontent, parent: parent_id }
+			type: 'POST',
+			url: 'PHP/CreateComment.php',
+			data: {comment: cleancontent, parent: parent_id }
 		})
 		.done(function(returndata){
 			refreshComments();
