@@ -3,17 +3,19 @@ var commentBoxAndButtons = '<textarea class="form-control" rows="3"></textarea>'
 	'<button id="cancel" class="btn btn-default pull-right">Cancel</button></div>';
 
 var getFileContents = function(filepath){
-		var data;
+
 		$.ajax({
-		type: 'POST',
-		url: 'PHP/RetrieveFile.php',
-		data: {path: filepath},
-		async: false
+			type: 'POST',
+			url: 'PHP/RetrieveFile.php',
+			data: {path: filepath}
 		})
 		.done(function(returndata){
-			data = returndata;
+			$('#file').click(function(){
+				$('#frame').append('<pre>'+returndata+'</pre>');
+				$('#file').fadeOut(500);
+			});
 		});
-		return data;
+
 }
 
 var refreshComments = function(){		
@@ -112,6 +114,7 @@ $(document).ready(function(){
 	$('#file').hide();
 
 	$('td a').click(function(){
+
 		//Check if last table was file table
 		var showButton = $('.File').is(':visible')
 		
@@ -123,12 +126,8 @@ $(document).ready(function(){
 		
 		//Build button fuctionality if needed
 		if(showButton){
-			var content = '<pre>'+getFileContents($(this).attr('id'))+'</pre>';
+			getFileContents($(this).attr('id'));
 			$('#file').delay(500).fadeIn(500);
-			$('#file').click(function(){
-				$('#frame').append(content);
-				$('#file').fadeOut(500);
-			});
 		}
 			
 	});
