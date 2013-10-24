@@ -2,9 +2,21 @@ var commentBoxAndButtons = '<textarea class="form-control" rows="3"></textarea>'
 	'<div id="buttons"><button id="submit" class="btn btn-primary pull-right">Submit</button>'+
 	'<button id="cancel" class="btn btn-default pull-right">Cancel</button></div>';
 
+var getFileContents = function(filepath){
+		var data;
+		$.ajax({
+		type: 'POST',
+		url: 'PHP/RetrieveFile.php',
+		data: {path: filepath},
+		async: false
+		})
+		.done(function(returndata){
+			data = returndata;
+		});
+		return data;
+}
 
-
-function refreshComments(){		
+var refreshComments = function(){		
 		$.ajax({
 		url: 'PHP/RetrieveComments.php'
 		})
@@ -16,7 +28,7 @@ function refreshComments(){
 	
 }
 
-function cleanBadWords(message){
+var cleanBadWords = function(message){
 		var cleancontent;
 		$.ajax({
 		type: 'POST',
@@ -31,7 +43,7 @@ function cleanBadWords(message){
 
 }
 
-function cancelButtonHandler(hiddenButton){
+var cancelButtonHandler = function(hiddenButton){
 		$('#cancel').click(function(){
 			$('#buttons').remove();
 			$('textarea').remove();	
@@ -39,7 +51,7 @@ function cancelButtonHandler(hiddenButton){
 		});
 }
 
-function submitButtonHandler(parent_id){
+var submitButtonHandler = function(parent_id){
 	
 	$('#submit').click(function(){
 		
@@ -111,10 +123,10 @@ $(document).ready(function(){
 		
 		//Build button fuctionality if needed
 		if(showButton){
-			var path = '<iframe src="https://subversion.ews.illinois.edu/svn/fa13-cs242/hauger3/'+$(this).attr('id')+'"></iframe>';
+			var content = '<pre>'+getFileContents($(this).attr('id'))+'</pre>';
 			$('#file').delay(500).fadeIn(500);
 			$('#file').click(function(){
-				$('#frame').append(path);
+				$('#frame').append(content);
 				$('#file').fadeOut(500);
 			});
 		}
